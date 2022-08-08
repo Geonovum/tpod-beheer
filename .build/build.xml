@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project basedir="." name="tpod" default="main">
+
+  <taskdef resource="net/sf/antcontrib/antlib.xml"/>
+  <taskdef name="xmltask" classname="com.oopsconsultancy.xmltask.ant.XmlTask"/>
+
+  <property name="input.dir" value="../input"/>
+  <property name="output.dir" value="../output"/>
+  <property name="temp.dir" value="temp"/>
+
+  <!-- initialiseer mappen -->
+
+  <target name="init" description="Initialiseer mappen">
+    <delete dir="${output.dir}" failonerror="no" includeemptydirs="true"/>
+    <mkdir dir="${output.dir}"/>
+    <delete dir="${temp.dir}" failonerror="no" includeemptydirs="true"/>
+    <mkdir dir="${temp.dir}"/>
+  </target>
+
+  <!-- unzip word-bestand -->
+
+  <target name="unzip" description="Unzip word-bestand">
+    <unzip dest="${temp.dir}/template">
+      <path id="input.id">
+        <fileset dir="${input.dir}" includes="*.docx"/>
+      </path>
+    </unzip>
+  </target>
+
+  <!-- maak hash-code -->
+
+  <target name="checksum" description="Maak hash-codes">
+    <foreach target="checksum.execute" param="file.fullname">
+      <path>
+        <fileset dir="${temp.dir}/template/word/media"/>
+      </path>
+    </foreach>
+  </target>
+
+  <target name="checksum.execute">
+    <basename property="file.name" file="${file.fullname}"/>
+    <checksum file="${file.fullname}" algorithm="md5" property="file.checksum"/>
+    <xslt in="tpod_checksum.xml" out="${temp.dir}/checksum/${file.name}.xml" style="tpod_checksum.xsl" processor="trax" force="true">
+      <param name="base.dir" expression="${basedir}"/>
+      <param name="file.name" expression="${file.name}"/>
+      <param name="file.fullname" expression="${file.fullname}"/>
+      <param name="file.checksum" expression="${file.checksum}"/>
+    </xslt>
+  </target>
+
+  <!-- verplaats en hernoem media -->
+
+  <target name="media" description="verplaats en hernoem media">
+    <foreach target="media.execute" param="file.fullname">
+      <path>
+        <fileset dir="${temp.dir}/checksum"/>
+      </path>
+    </foreach>
+  </target>
+
+  <target name="media.execute">
+    <xmltask source="${file.fullname}">
+      <call path="file" buffer="file">
+        <param name="file.name" path="name/text()"/>
+        <param name="file.rename" path="rename/text()"/>
+        <actions>
+          <move file="${temp.dir}/template/word/media/@{file.name}" tofile="${temp.dir}/media/@{file.rename}"/>
+        </actions>
+      </call>
+    </xmltask>
+  </target>
+
+  <!-- transformeer xml-bestanden -->
+
+  <target name="transform" description="Splits word-bestand">
+    <pathconvert property="input.fullname" refid="input.id"/>
+    <basename property="input.name" file="${input.fullname}"/>
+    <xslt in="${temp.dir}/template/word/document.xml" out="${temp.dir}/fragmenten/manifest.xml" style="tpod_splitsen.xsl" processor="trax" force="true">
+      <param name="base.dir" expression="${basedir}"/>
+      <param name="input.name" expression="${input.name}"/>
+    </xslt>
+  </target>
+
+  <!-- stel word-documenten samen -->
+
+  <target name="compile" description="Stel word-documenten samen">
+    <foreach target="compile.execute" param="dir.fullname">
+      <path>
+        <dirset dir="${temp.dir}/fragmenten">
+          <include name="*"/>
+        </dirset>
+      </path>
+    </foreach>
+  </target>
+
+  <target name="compile.execute">
+    <basename property="dir.name" file="${dir.fullname}"/>
+    <copy todir="${temp.dir}/word/${dir.name}" includeemptydirs="true">
+      <path>
+        <fileset dir="${temp.dir}/template"/>
+      </path>
+    </copy>
+    <copy file="${dir.fullname}/document.xml" tofile="${temp.dir}/word/${dir.name}/word/document.xml" overwrite="true"/>
+    <copy file="${dir.fullname}/document.xml.rels" tofile="${temp.dir}/word/${dir.name}/word/_rels/document.xml.rels" overwrite="true"/>
+    <copy file="${dir.fullname}/header2.xml.rels" tofile="${temp.dir}/word/${dir.name}/word/_rels/header2.xml.rels" overwrite="true"/>
+    <copy file="${dir.fullname}/header3.xml.rels" tofile="${temp.dir}/word/${dir.name}/word/_rels/header3.xml.rels" overwrite="true"/>
+    <xmltask source="${temp.dir}/fragmenten/manifest.xml">
+      <call path="manifest/colofon/afbeelding|manifest/document[contains(naam,'${dir.name}')]/afbeelding">
+        <param name="file.name" path="naam/text()"/>
+        <actions>
+          <copy file="${temp.dir}/media/@{file.name}" todir="${temp.dir}/word/${dir.name}/word/media"/>
+        </actions>
+      </call>
+    </xmltask>
+  </target>
+
+  <!-- zip alle mappen -->
+
+  <target name="zip" description="Zip alle mappen">
+    <foreach target="zip.execute" param="dir.name">
+      <path>
+        <dirset dir="${temp.dir}/word" includes="*"/>
+      </path>
+    </foreach>
+  </target>
+
+  <target name="zip.execute">
+    <basename property="file.name" file="${dir.name}"/>
+    <zip basedir="${dir.name}" destfile="${output.dir}/${file.name}.docx"/>
+  </target>
+
+  <!-- transformeer manifest-bestand -->
+
+  <target name="manifest" description="Kopieer manifest-bestand">
+    <xslt in="${temp.dir}/fragmenten/manifest.xml" out="${output.dir}/manifest.xml" style="tpod_manifest.xsl" processor="trax" force="true"/>
+  </target>
+
+  <!-- totale transformatie -->
+
+  <target name="main" description="Totale transformatie" depends="init,unzip,checksum,media,transform,compile,zip,manifest"/>
+
+</project>
