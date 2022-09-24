@@ -2,7 +2,7 @@
 
 Voor het beheer en publicatie van de toepassingsprofielen zijn drie repositories ingericht:
 
-- tpod-archief voor de opslag van alle toepassingsprofielen
+- tpod-beheer voor de opslag van alle toepassingsprofielen
 - tpod-publicatie voor de publicatie van een toepassingsprofiel
 
 Daarnaast is er een web-formulier voor het handmatig aanpassen van een manifest.xml.
@@ -13,13 +13,13 @@ Schematisch is de route voor het beheer als volgt:
 
 ![](media/tpod-beheer.png)
 
-## tpod-archief
+## tpod-beheer
 
-Deze repository is het centrale archief voor de opslag van alle toepassingsprofielen. De indeling is als volgt:
+Deze repository bevat het centrale archief voor de opslag van alle toepassingsprofielen. De indeling is als volgt:
 
-![](media/tpod-archief.png)
+![](media/tpod-beheer.png)
 
-Door een toepassingsprofiel te pushen naar repository tpod-archief start een transformatie dat het word-document opsplitst in tekstfragmenten. Elk tekstfragment wordt als word-document opgeslagen. De indeling van het oorspronkelijke word-document wordt vastgelegd in bestand manifest.xml.
+Door een toepassingsprofiel te pushen naar repository tpod-beheer start een transformatie dat het word-document opsplitst in tekstfragmenten. Elk tekstfragment wordt als word-document opgeslagen. De indeling van het oorspronkelijke word-document wordt vastgelegd in bestand manifest.xml.
 
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
