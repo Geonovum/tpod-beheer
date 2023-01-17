@@ -17,7 +17,7 @@ Schematisch is de route voor het beheer als volgt:
 
 Deze repository bevat het centrale archief voor de opslag van alle toepassingsprofielen. De indeling is als volgt:
 
-![](media/tpod-beheer.png)
+![](media/tpod-beheer-archief.png)
 
 Door een toepassingsprofiel te pushen naar repository tpod-beheer start een transformatie dat het word-document opsplitst in tekstfragmenten. Elk tekstfragment wordt als word-document opgeslagen. De indeling van het oorspronkelijke word-document wordt vastgelegd in bestand manifest.xml.
 
@@ -69,10 +69,10 @@ Bij de documenten staat aangegeven uit welke versie deze afkomstig is. Dit wordt
 
 Het web-formulier heeft twee doelen:
 
-- Je kunt selecteren welk toepassingsprofiel je wilt downloaden of publiceren.
+- Je kunt selecteren welk toepassingsprofiel je lokaal wilt bewaren of publiceren.
 - Je kunt van het toepassingsprofiel de indeling veranderen door manifest.xml aan te passen.
 
-Het web-formulier bevat twee knoppen, ‘download’ en ‘publiceer’. Beide voeren een transformatie uit dat op basis van manifest.xml een nieuw word-document samenstelt. Knop ‘publiceer’ slaat daarna het word-bestand op in repository tpod-publicatie, waardoor een script start.
+Het web-formulier bevat twee knoppen, ‘bewaar’ en ‘publiceer’. Beide voeren een transformatie uit dat op basis van manifest.xml een nieuw word-document samenstelt. Knop ‘bewaar’ slaat het word-bestand lokaal op, knop ‘publiceer’ in repository tpod-publicatie, waardoor een script start.
 
 ## tpod-publicatie
 
