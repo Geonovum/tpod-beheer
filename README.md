@@ -17,7 +17,7 @@ Schematisch is de route voor het beheer als volgt:
 
 Deze repository bevat het centrale archief voor de opslag van alle toepassingsprofielen. De indeling is als volgt:
 
-![](media/tpod-beheer-archief.png)
+![](media/tpod-beheer_archief.png)
 
 Door een toepassingsprofiel te pushen naar repository tpod-beheer start een transformatie dat het word-document opsplitst in tekstfragmenten. Elk tekstfragment wordt als word-document opgeslagen. De indeling van het oorspronkelijke word-document wordt vastgelegd in bestand manifest.xml.
 
