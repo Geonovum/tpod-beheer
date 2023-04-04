@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+   <naam>TPOD Voorbereidingsbesluit_werkversie.docx</naam>
+   <datum>2023-04-04T15:28:23.441+02:00</datum>
+   <colofon index="0">
+      <naam>000_Colofon.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <afbeelding index="1">
+         <naam>image_e698d2f4d0e67fbbb74cf02ac2d7a011.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>e698d2f4d0e67fbbb74cf02ac2d7a011</checksum>
+      </afbeelding>
+      <metadata>
+         <data name="ID00" value="5-4-2023"/>
+         <data name="ID01" value="voorbereidingsbesluit"/>
+         <data name="ID01_CAPS" value="Voorbereidingsbesluit"/>
+         <data name="ID01+" value="het voorbereidingsbesluit"/>
+         <data name="ID01+_CAPS" value="Het voorbereidingsbesluit"/>
+         <data name="ID02" value="het"/>
+         <data name="ID03" value="vb"/>
+         <data name="ID04" value="2.1.0"/>
+         <data name="ID05"
+               value="STandaard Officiële Publicaties met ToepassingsProfielen voor OmgevingsDocumenten (STOP/TPOD)"/>
+         <data name="ID06" value="PR33"/>
+         <data name="ID07" value="Nienke Jansen"/>
+         <data name="ID08" value="DSO project 33"/>
+      </metadata>
+      <versiehistorie>
+         <versie nummer="2.0.0-rc">
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hele document:</alinea>
+               <alinea opmaak="Opsomming tekens 1">Tekst gecorrigeerd en verbeterd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verduidelijkende afbeeldingen toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Term OW-object vervangen door OW-object</alinea>
+               <alinea opmaak="Opsomming tekens 1">Woord symbolisatiebibliotheek vervangen door symbolenbibliotheek, overal waar dat voorkwam (WELT-146)</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 1.2 STOP, IMOW en TPOD</alinea>
+               <alinea opmaak="Opsomming tekens 1">Tekst toegevoegd over het aanwijzen van omgevingsdocumenten en verplicht stellen van het gebruik van STOP, IMOW en toepassingsprofiel door Omgevingsregeling en Regeling standaarden publicaties Omgevingswet</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwerkt huidig inzicht in welke producten tot de standaard behoren, welke serviceproducten zijn en voor welke doelgroep ze bedoeld zijn</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 2.2 Algemene kenmerken voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 1">In tabel 2 de onderdelen over besluit en besluitonderdelen verwijderd i.v.m. nieuwe opzet hoofdstuk 4 waarin niet langer sprake is van besluit en besluitonderdelen, maar de opzet van het voorbereidingsbesluit wordt voorgeschreven aan de hand van de STOP-modellen voor Besluit en Regeling</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 2.4.3, 2.4.4 (alle subparagrafen) en 8.1.2 (alle subparagrafen)</alinea>
+               <alinea opmaak="Opsomming tekens 1">De procedure voor het aanleveren van consolidatie-informatie voor het intrekken van het tijdelijk regelingdeel met voorbeschermingsregels is gewijzigd. Dat moet vooralsnog altijd op het moment van vervallen en altijd door de eigenaar van de hoofdregeling. De beschrijving en afbeelding zijn hierop aangepast.</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd is een kader Toekomstige functionaliteit waarin wordt aangegeven dat het toekomstbeeld is dat al bij de aanlevering van het voorbereidingsbesluit ook de consolidatie-informatie voor het vervallen van het tijdelijk regelingdeel en het beëindigen van de bijbehorende OW-objecten na een jaar en zes maanden kan worden aangeleverd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Het kader Toekomstige functionaliteit over het mogelijk in de LVBB moeten treffen van een voorziening voor het aanleveren van consolidatie-informatie door een ander bevoegd gezag dan het bevoegd gezag dat de regeling heeft aangeleverd, is vervallen. Dit kan namelijk al, de voorziening is niet nodig</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 2.5 Muteren van voorbeschermingsregels in het tijdelijk regelingdeel</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 3.5 Waardelijsten</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd dat de waardelijsten zijn vastgelegd in de Stelselcatalogus</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 3.6 Presentatiemodel</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijderd beschrijving attribuut specifiekeSymbolisatie</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijderd beschrijving dat Presentatiemodel vastlegt hoe wijzigingen in wijzigingsbesluit worden gepresenteerd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwerkt dat de symboolcodes voor de standaardweergave niet langer in een afzonderlijke symbolisatietabel staan, maar zijn opgenomen in de IMOW-waardelijsten</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 4 De vormgeving van Besluit en Regeling in het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk volledig vervangen door nieuwe tekst. Daarin is de beschrijving van de drie onderdelen van het besluit vervangen door de beschrijving van de vormgeving en onderdelen van Besluit en regeling aan de hand van de STOP-modellen</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 5 Toepassing van de STOP-tekststructuren op omgevingsdocumenten</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk herschreven zodat het beter aansluit op STOP in de beschrijving welke onderdelen van Besluit en Regeling Artikelstructuur respectievelijk Vrijetekststructuur hebben</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 5.2 Specificatie van de Artikelstructuur</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 5.2.1 Gebruik van tekstelementen en hun volgorde in het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toegevoegd bepaling dat een tekstelement slechts één lagerliggend type tekstelement mag bevatten</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toegevoegd bepaling over element Gereserveerd</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toegevoegd bepaling over element Vervallen</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toegevoegd dat element Redactioneel niet is toegestaan</alinea>
+               <alinea opmaak="Opsomming tekens 2">Geschrapt element Gereserveerd bij Lid (WELT-152)</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toegevoegd toelichting op element Begrippenlijst</alinea>
+               <alinea opmaak="Opsomming tekens 2">In de tabel in de kolom ‘Mag bevatten’ het element Vervallen toegevoegd waar relevant</alinea>
+               <alinea opmaak="Opsomming tekens 2">In de tabel in de kolom ‘Mag bevatten’ het element Gereserveerd verwijderd bij Lid (WELT-152)</alinea>
+               <alinea opmaak="Opsomming tekens 2">In de tabel bij Lid en beide Inhoud-rijen in de kolom ‘Mag niet bevatten’ de elementen Gereserveerd en Vervallen toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 2">In de tabel in de kolom ‘Type tekstelement’ verduidelijkt dat beide laatste rijen over Inhoud-elementen gaan en uitgeschreven welke elementen dat kunnen zijn</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 5.2.2 Gebruik van Koppen en Lijsten in het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 2">Scherper onderscheid gemaakt tussen Norm en Toelichting, daarvoor tekst over opmaak verplaatst naar Toelichting</alinea>
+               <alinea opmaak="Opsomming tekens 2">Bepaling dat Lid optioneel een Opschrift kan hebben gewijzigd in de bepaling dat Lid geen Opschrift heeft</alinea>
+               <alinea opmaak="Opsomming tekens 2">In de toelichting de tekst over en afbeeldingen van Lid met Opschrift verwijderd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 5.3 Specificatie van de Vrijetekststructuur</alinea>
+               <alinea opmaak="Opsomming tekens 2">Norm en toelichting aangepast op gewijzigd inzicht over positie van het element Divisietekst in de modellen: geen structuurelement maar inhoudelijke bouwsteen</alinea>
+               <alinea opmaak="Opsomming tekens 2">Bepaling dat de Kop van Divisietekst in een aantal gevallen verplicht is gewijzigd in altijd optioneel</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toelichting volledig herschreven en afbeeldingen toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 6.2 Objecttype Regelingsgebied</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd dat Regelingsgebied hoort bij de Regeling en niet wordt gekoppeld aan een Juridische regel of Tekstdeel</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 7 Overige modelleringsaspecten van het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Naar dit hoofdstuk de voormalige paragraaf 5.5 (Standaardindeling) verplaatst</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 7.2 Standaardindeling voorbereidingsbesluit aangepast zodat de beschrijving in overeenstemming is met het voorgeschreven model voor Besluit en Regeling zoals beschreven in paragraaf 4.3</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 8.3 Kennisgeving</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving van het element Divisietekst aangepast: de Kop is nu altijd optioneel</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.0">
+            <wijziging datum="2021-06-29">
+               <alinea opmaak="Standaard">Paragraaf 4.3 De vormgeving van Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Gebruik van WijzigLid aangescherpt (STOP#184)</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.1-rc">
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hele document:</alinea>
+               <alinea opmaak="Opsomming tekens 1">tekst gecorrigeerd en verbeterd</alinea>
+               <alinea opmaak="Opsomming tekens 1">tekst geactualiseerd n.a.v. wijzigingen in wet- en regelgeving</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.1-rc ">
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hoofdstuk 4 De vormgeving van Besluit en Regeling bij het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving Besluitmodel in overeenstemming gebracht met STOP: in BesluitCompact wordt een WijzigArtikel niet onderverdeeld in WijzigLeden</alinea>
+               <alinea opmaak="Opsomming tekens 1">Bepaald wanneer gebruik gemaakt mag worden van een PDF-bijlage in Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Modellering Toelichting en ArtikelgewjizigeToelichting aangepast en advies toegevoegd over de toepassing hiervan, met het oog op de toekomstige vereenvoudiging van deze elementen (STOP#194)</alinea>
+               <alinea opmaak="Opsomming tekens 1">Advies toegevoegd om in het Besluit het element Inhoudsopgave niet te gebruiken</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 5.2 Specificatie van de Artikelstructuur</alinea>
+               <alinea opmaak="Opsomming tekens 1">Bepaling over gebruik tekstelement Titel gewijzigd (WELT-178)</alinea>
+               <alinea opmaak="Opsomming tekens 1">Extra uitleg toegevoegd over element Vervallen</alinea>
+               <alinea opmaak="Opsomming tekens 1">Aangegeven dat voor lijsten gebruik gemaakt moet worden van Lijst van het type expliciet</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 5.3 Specificatie van de Vrijetekststructuur</alinea>
+               <alinea opmaak="Opsomming tekens 1">Aangegeven dat voor lijsten gekozen kan worden tussen Lijst van het type expliciet en Lijst van het type ongemarkeerd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Figuren toegevoegd en bestaande figuren verduidelijkt</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 5.4 Bijlagen bij Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegelicht wanneer gebruik gemaakt mag worden van een PDF-bijlage in Besluit en Regeling</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hoofdstuk 7 Overige modelleringsaspecten van het voorbereidingsbesluit</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijzing naar toepasselijke paragrafen in toepassingsprofiel omgevingsplan respectievelijk toepassingsprofiel omgevingsverordening toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf over tekstverwijzing verwijderd (die zit al in toepassingsprofielen omgevingsplan en omgevingsverordening die van toepassing zijn verklaard</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hoofdstuk 9 Mutatiescenario’s</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving van mutatiescenario Integrale Tekstvervanging en wanneer dit mag worden toegepast (STOP#191)</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.1">
+            <wijziging datum="2022-01-07">
+               <alinea opmaak="Standaard">De afbeeldingen van voorbeelden van besluit en regeling in de paragrafen 4.3.2.3, 4.3.3.3 en 7.2.1 vervangen, i.v.m. gewijzigd inzicht in de voorbeeldtekst van de Conditie</alinea>
+            </wijziging>
+         </versie>
+      </versiehistorie>
+   </colofon>
+   <document index="1">
+      <naam>001_Uitgangspunten_voor_de_modellering.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Uitgangspunten voor de modellering</titel>
+      <niveau>1</niveau>
+      <checksum>70b07588f5bcccc211add9f1c3903d72</checksum>
+   </document>
+   <document index="2">
+      <naam>002_Inleiding.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Inleiding</titel>
+      <niveau>2</niveau>
+      <checksum>df015b85f32813c167010491ffce24ac</checksum>
+   </document>
+   <document index="3">
+      <naam>003_Aanleiding.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Aanleiding</titel>
+      <niveau>3</niveau>
+      <checksum>dd201d3238f9a4bc28a91e117175da60</checksum>
+   </document>
+   <document index="4">
+      <naam>004_Nieuw_stelsel_omgevingsrecht.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Nieuw stelsel omgevingsrecht</titel>
+      <niveau>4</niveau>
+      <checksum>246bfbf774e3cc51b6dea74ec90a8836</checksum>
+   </document>
+   <document index="5">
+      <naam>005_LVBB_overheidnl_en_DSO-LV.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>LVBB, overheid.nl en DSO-LV</titel>
+      <niveau>4</niveau>
+      <checksum>58188c849ea00fb63097a6737a5129ec</checksum>
+   </document>
+   <document index="6">
+      <naam>006_STOP_IMOW_en_TPOD.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>STOP, IMOW en TPOD</titel>
+      <niveau>3</niveau>
+      <checksum>f2afbca66caeb150aef79b01545bc118</checksum>
+   </document>
+   <document index="7">
+      <naam>007_Leeswijzer.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Leeswijzer</titel>
+      <niveau>3</niveau>
+      <checksum>9149fa027b2359345d4a37d898da096f</checksum>
+   </document>
+   <document index="8">
+      <naam>008_Inhoudelijke_aspecten_van_DOCVARIABLE_ID01_voorbeschermingsregels_en_meervoudig_bronhouderschap.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Inhoudelijke aspecten van voorbereidingsbesluit, voorbeschermingsregels en meervoudig bronhouderschap</titel>
+      <niveau>2</niveau>
+      <checksum>75967cf2c6b729284978563bfbc52a7c</checksum>
+   </document>
+   <document index="9">
+      <naam>009_Kenschets_rechtsfiguur.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Kenschets rechtsfiguur</titel>
+      <niveau>3</niveau>
+      <checksum>de80df4ff18bb25d3c071c5de9745c47</checksum>
+   </document>
+   <document index="10">
+      <naam>010_Algemene_kenmerken_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Algemene kenmerken voorbereidingsbesluit</titel>
+      <niveau>3</niveau>
+      <checksum>7e03c5dce60b85781c558b33dbb8e8e9</checksum>
+   </document>
+   <document index="11">
+      <naam>011_Voorbereidingsbesluit_en_voorbeschermingsregels.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Voorbereidingsbesluit en voorbeschermingsregels</titel>
+      <niveau>3</niveau>
+      <checksum>454554cc73512ae53b5d150d38e889b5</checksum>
+   </document>
+   <document index="12">
+      <naam>012_Wijziging_van_omgevingsplan_en_omgevingsverordening_door_het_voorbereidingsbesluit_meervoudig_bronhouderschap.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Wijziging van omgevingsplan en omgevingsverordening door het voorbereidingsbesluit: meervoudig bronhouderschap</titel>
+      <niveau>3</niveau>
+      <checksum>3bbbdbbda076c4aeea67b34054c8e848</checksum>
+   </document>
+   <document index="13">
+      <naam>013_Beoogde_werking_van_meervoudig_bronhouderschap.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Beoogde werking van meervoudig bronhouderschap</titel>
+      <niveau>4</niveau>
+      <checksum>d0e00b65616baee913b8a6a774b614e8</checksum>
+   </document>
+   <document index="14">
+      <naam>014_Uitvoering_meervoudig_bronhouderschap_en_consolidatie_met_concept_tijdelijk_regelingdeel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Uitvoering meervoudig bronhouderschap en consolidatie met concept ‘tijdelijk regelingdeel’</titel>
+      <niveau>4</niveau>
+      <checksum>bfed5b7c2d3bc222318370499870c976</checksum>
+      <afbeelding index="1">
+         <naam>image_fc0202bf53462d53b8717d531f367866.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>fc0202bf53462d53b8717d531f367866</checksum>
+      </afbeelding>
+   </document>
+   <document index="15">
+      <naam>015_Toepassing_van_tijdelijk_regelingdeel_en_consolidatie_bij_het_wijzigen_van_omgevingsplan_of_omgevingsverordening_met_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing van tijdelijk regelingdeel en consolidatie bij het wijzigen van omgevingsplan of omgevingsverordening met het voorbereidingsbesluit</titel>
+      <niveau>4</niveau>
+      <checksum>464454442f1e1f15629d9e4f7f9ec59d</checksum>
+      <afbeelding index="1">
+         <naam>image_590529946db663f14d845216adab89da.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>590529946db663f14d845216adab89da</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_19de8a7fc9b4989e34ba0c53649db418.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>19de8a7fc9b4989e34ba0c53649db418</checksum>
+      </afbeelding>
+   </document>
+   <document index="16">
+      <naam>016_Inwerkingtreden_en_vervallen_van_voorbeschermingsregels_tonen_en_niet_meer_tonen_tijdelijk_regelingdeel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Inwerkingtreden en vervallen van voorbeschermingsregels: tonen en niet meer tonen tijdelijk regelingdeel</titel>
+      <niveau>4</niveau>
+      <checksum>d44bae3da43086e2e541cdac7e57d4b0</checksum>
+      <afbeelding index="1">
+         <naam>image_e3be2032fc3d7fc188113b01eb4da762.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>e3be2032fc3d7fc188113b01eb4da762</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_712814bd85c2f2d942b75534c5d41c9c.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>712814bd85c2f2d942b75534c5d41c9c</checksum>
+      </afbeelding>
+   </document>
+   <document index="17">
+      <naam>017_Wijzigen_van_voorbeschermingsregels_in_het_tijdelijk_regelingdeel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Wijzigen van voorbeschermingsregels in het tijdelijk regelingdeel</titel>
+      <niveau>3</niveau>
+      <checksum>1bff7f1090ef3c3474c05442545dd73a</checksum>
+   </document>
+   <document index="18">
+      <naam>018_Overgangsrecht_en_overgangsfase.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Overgangsrecht en overgangsfase</titel>
+      <niveau>3</niveau>
+      <checksum>61c76edcc97cc1f463be2121888d5ede</checksum>
+   </document>
+   <document index="19">
+      <naam>016_Uitgangspunten_voor_de_toepassingsprofielen_voor_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Uitgangspunten voor de toepassingsprofielen voor omgevingsdocumenten</titel>
+      <niveau>2</niveau>
+      <checksum>eb945db79b184000ed6baed12a4eeef2</checksum>
+   </document>
+   <document index="20">
+      <naam>020_Proces_van_totstandkoming_en_bekendmaking_cq_publicatie_van_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Proces van totstandkoming en bekendmaking c.q. publicatie van omgevingsdocumenten</titel>
+      <niveau>3</niveau>
+      <checksum>cadb4fa49ad976b5fe4ff6026aa7632f</checksum>
+   </document>
+   <document index="21">
+      <naam>018_Omgevingsdocumenten_met_en_zonder_regels.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Omgevingsdocumenten met en zonder regels</titel>
+      <niveau>3</niveau>
+      <checksum>a2fe43aeaa55c167fc217f6d0b3a279e</checksum>
+   </document>
+   <document index="22">
+      <naam>022_Initieel_besluit_wijzigingsbesluit_en_geconsolideerde_Regeling.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Initieel besluit, wijzigingsbesluit en geconsolideerde Regeling</titel>
+      <niveau>3</niveau>
+      <checksum>5b5f1b95575501ed2b54bbd07ddab4f0</checksum>
+   </document>
+   <document index="23">
+      <naam>023_Annoteren.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Annoteren</titel>
+      <niveau>3</niveau>
+      <checksum>04ca55a1880709c98cbe31f76666d60b</checksum>
+   </document>
+   <document index="24">
+      <naam>024_Waardelijsten.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Waardelijsten</titel>
+      <niveau>3</niveau>
+      <checksum>fec9392c6072333803569b0d515f5498</checksum>
+   </document>
+   <document index="25">
+      <naam>025_Presentatiemodel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Presentatiemodel</titel>
+      <niveau>3</niveau>
+      <checksum>23a9388d94ba8ad6ccba32727788bf15</checksum>
+      <afbeelding index="1">
+         <naam>image_60ce1a4c781961dc481587f7f75b45e1.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>60ce1a4c781961dc481587f7f75b45e1</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_bab2c4a6b7edfb2d69b2df42ad1ac165.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>bab2c4a6b7edfb2d69b2df42ad1ac165</checksum>
+      </afbeelding>
+   </document>
+   <document index="26">
+      <naam>023_Metadata.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Metadata</titel>
+      <niveau>3</niveau>
+      <checksum>efe8b49772aab2a83e0918b3aa1805c1</checksum>
+   </document>
+   <document index="27">
+      <naam>024_Van_plan_tot_publicatie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Van plan tot publicatie</titel>
+      <niveau>3</niveau>
+      <checksum>ad9ae15e60cd868fda00aae4b9e99100</checksum>
+   </document>
+   <document index="28">
+      <naam>028_Het_aanleverproces.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Het aanleverproces</titel>
+      <niveau>4</niveau>
+      <checksum>2a1d9ba4ae1c94668023d402b398f140</checksum>
+      <afbeelding index="1">
+         <naam>image_42f3946500bb14921a61884f24e83523.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>42f3946500bb14921a61884f24e83523</checksum>
+      </afbeelding>
+   </document>
+   <document index="29">
+      <naam>026_Raadplegen.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Raadplegen</titel>
+      <niveau>4</niveau>
+      <checksum>8e6f0747cdd29a39f28eeb2fe67e1bbe</checksum>
+   </document>
+   <document index="30">
+      <naam>027_Raadplegen_in_het_officiele_publicatieblad.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Raadplegen in het officiële publicatieblad</titel>
+      <niveau>5</niveau>
+      <checksum>ea183a1a706960b68ee28e248cf1c688</checksum>
+   </document>
+   <document index="31">
+      <naam>028_Raadplegen_in_DSO-LV.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Raadplegen in DSO-LV</titel>
+      <niveau>5</niveau>
+      <checksum>b157fe8521ca264c86026c65fcf66d50</checksum>
+   </document>
+   <document index="32">
+      <naam>032_Modellering_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Modellering van het voorbereidingsbesluit</titel>
+      <niveau>1</niveau>
+      <checksum>1d010c4226bcbe19ef807bab594535b7</checksum>
+   </document>
+   <document index="33">
+      <naam>030_De_vormgeving_van_Besluit_en_Regeling_bij_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>De vormgeving van Besluit en Regeling bij het voorbereidingsbesluit</titel>
+      <niveau>2</niveau>
+      <checksum>f9cef8ba70a4f0d5db55afa0b90616d8</checksum>
+   </document>
+   <document index="34">
+      <naam>034_Besluit_juridisch_geldende_versie_en_geconsolideerde_Regeling_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Besluit, juridisch geldende versie en (geconsolideerde) Regeling van het voorbereidingsbesluit</titel>
+      <niveau>3</niveau>
+      <checksum>40f57fc1fa438dfb73743677809e61dc</checksum>
+   </document>
+   <document index="35">
+      <naam>035_Modellen_voor_Besluit_en_Regeling_en_tekststructuren.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Modellen voor Besluit en Regeling en tekststructuren</titel>
+      <niveau>3</niveau>
+      <checksum>65ed997b67f4dded1e5f95a7d1f352c7</checksum>
+   </document>
+   <document index="36">
+      <naam>036_Modellen_voor_Besluit_en_Regeling.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Modellen voor Besluit en Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>97cfa2e33bc385e103cd9590dc1f60b4</checksum>
+   </document>
+   <document index="37">
+      <naam>037_Tekststructuren.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Tekststructuren</titel>
+      <niveau>4</niveau>
+      <checksum>818f22d7527e2e5395841acaaf2ef1d9</checksum>
+   </document>
+   <document index="38">
+      <naam>088_De_vormgeving_van_Besluit_en_Regeling_bij_het_voorbereidingsbesluit.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>De vormgeving van Besluit en Regeling bij het voorbereidingsbesluit</titel>
+      <niveau>3</niveau>
+      <checksum>77194b560dc7af68f986cbf3a6f0727f</checksum>
+   </document>
+   <document index="39">
+      <naam>044_Model.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Model</titel>
+      <niveau>4</niveau>
+      <checksum>96922cda733ed8dfb320b2a5afca949e</checksum>
+   </document>
+   <document index="40">
+      <naam>040_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>e52c2aa8d22e08ceab46d770c536e53e</checksum>
+   </document>
+   <document index="41">
+      <naam>041_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>4cb8072222b02d01c0f18f1b3bd97d2a</checksum>
+   </document>
+   <document index="42">
+      <naam>042_Besluit.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Besluit</titel>
+      <niveau>4</niveau>
+      <checksum>d6cbd86bc6bfb063a70ad9cc3f1b3c27</checksum>
+   </document>
+   <document index="43">
+      <naam>043_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>d12ad684f838e98dff1b2d1a812e7202</checksum>
+   </document>
+   <document index="44">
+      <naam>044_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>40170d48ba56ba4ab4877bdd47027e6d</checksum>
+   </document>
+   <document index="45">
+      <naam>045_Voorbeeld.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Voorbeeld</titel>
+      <niveau>5</niveau>
+      <checksum>e5bc9e7e345fa938f25d10c4c6d11470</checksum>
+      <afbeelding index="1">
+         <naam>image_2617f936e38e244ea6c5a8c27106c830.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>2617f936e38e244ea6c5a8c27106c830</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_46c59442f83c7d61b88692f73db81bb7.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>46c59442f83c7d61b88692f73db81bb7</checksum>
+      </afbeelding>
+   </document>
+   <document index="46">
+      <naam>046_Regeling.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>e74951cf751ca24cffeb399feba85db4</checksum>
+   </document>
+   <document index="47">
+      <naam>047_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>e426359ba5b936fc10b22dcf6de6e5d4</checksum>
+   </document>
+   <document index="48">
+      <naam>048_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>a1141283583e76029e9f586445724efe</checksum>
+   </document>
+   <document index="49">
+      <naam>049_Voorbeeld.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Voorbeeld</titel>
+      <niveau>5</niveau>
+      <checksum>d21830ebd8524a6b281035839777b756</checksum>
+      <afbeelding index="1">
+         <naam>image_222753b20242b29c1def5738f19a665f.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>222753b20242b29c1def5738f19a665f</checksum>
+      </afbeelding>
+   </document>
+   <document index="50">
+      <naam>128_Toepassing_van_de_STOP-tekststructuren_op_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing van de STOP-tekststructuren op omgevingsdocumenten</titel>
+      <niveau>2</niveau>
+      <checksum>78342923d4970b654543d726a31456da</checksum>
+   </document>
+   <document index="51">
+      <naam>129_Soorten_tekststructuur.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Soorten tekststructuur</titel>
+      <niveau>3</niveau>
+      <checksum>822ed09600855c5ac22da8c47916c078</checksum>
+   </document>
+   <document index="52">
+      <naam>052_Specificatie_van_de_Artikelstructuur.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Specificatie van de Artikelstructuur</titel>
+      <niveau>3</niveau>
+      <checksum>dff86ace2e616ac1d11c832cda0972c8</checksum>
+   </document>
+   <document index="53">
+      <naam>131_Gebruik_van_tekstelementen_en_hun_volgorde_in_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Gebruik van tekstelementen en hun volgorde in het voorbereidingsbesluit</titel>
+      <niveau>4</niveau>
+      <checksum>9f9e84db4715e18bf9c9e4dc8c93156c</checksum>
+   </document>
+   <document index="54">
+      <naam>054_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>088e86b617298b4d5c49edc11ed311cb</checksum>
+   </document>
+   <document index="55">
+      <naam>055_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>74427101a3187e419810789e1ece02b7</checksum>
+      <afbeelding index="1">
+         <naam>image_a09e38dc56d02fbf696d11419799e529.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>a09e38dc56d02fbf696d11419799e529</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_e129565da572a138e8b846321fa52e32.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>e129565da572a138e8b846321fa52e32</checksum>
+      </afbeelding>
+      <afbeelding index="3">
+         <naam>image_7892259e028a879db80343d9664596d3.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>7892259e028a879db80343d9664596d3</checksum>
+      </afbeelding>
+   </document>
+   <document index="56">
+      <naam>056_Gebruik_van_Koppen_en_Lijsten_in_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Gebruik van Koppen en Lijsten in het voorbereidingsbesluit</titel>
+      <niveau>4</niveau>
+      <checksum>d49417b8ed22e9b568248d139f8fb0a3</checksum>
+   </document>
+   <document index="57">
+      <naam>057_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>5376faa147cff0f5fa1cd01b8fe07d90</checksum>
+   </document>
+   <document index="58">
+      <naam>058_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>bb0ab595d0b5ead15d1ae193f493be83</checksum>
+      <afbeelding index="1">
+         <naam>image_a4e0dea025213b3dd30cb8d13a098c1f.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>a4e0dea025213b3dd30cb8d13a098c1f</checksum>
+      </afbeelding>
+   </document>
+   <document index="59">
+      <naam>059_Specificatie_van_de_Vrijetekststructuur.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Specificatie van de Vrijetekststructuur</titel>
+      <niveau>3</niveau>
+      <checksum>efc61e9154b1741d44720031b7054a94</checksum>
+   </document>
+   <document index="60">
+      <naam>060_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>9a234fcedb713a4ab33be06b10836e8b</checksum>
+   </document>
+   <document index="61">
+      <naam>061_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>4</niveau>
+      <checksum>488cd53e33fca9df8c1359362b1671a0</checksum>
+      <afbeelding index="1">
+         <naam>image_3b88d0ca14d4a1131ddd3d09322d0f80.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>3b88d0ca14d4a1131ddd3d09322d0f80</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_308d73c5eeb95c5475a32a49713e1a8e.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>308d73c5eeb95c5475a32a49713e1a8e</checksum>
+      </afbeelding>
+      <afbeelding index="3">
+         <naam>image_60c34bf1949e9373852a157dffd93aaa.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>60c34bf1949e9373852a157dffd93aaa</checksum>
+      </afbeelding>
+      <afbeelding index="4">
+         <naam>image_2e538b6c8d079790a360489628590f66.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>2e538b6c8d079790a360489628590f66</checksum>
+      </afbeelding>
+      <afbeelding index="5">
+         <naam>image_a980b2fe5c632075cc1db2a76ac59f59.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>a980b2fe5c632075cc1db2a76ac59f59</checksum>
+      </afbeelding>
+      <afbeelding index="6">
+         <naam>image_4087557830b28c2a9ae647651784bd0e.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>4087557830b28c2a9ae647651784bd0e</checksum>
+      </afbeelding>
+   </document>
+   <document index="62">
+      <naam>062_Bijlagen_bij_Besluit_en_Regeling.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Bijlagen bij Besluit en Regeling</titel>
+      <niveau>3</niveau>
+      <checksum>6f9832fae5470c26e7b9b515975443b1</checksum>
+   </document>
+   <document index="63">
+      <naam>063_Bijlage_als_onderdeel_van_de_tekst_in_STOP-XML.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Bijlage als onderdeel van de tekst in STOP-XML</titel>
+      <niveau>4</niveau>
+      <checksum>5569d2de545b506d8bc8df23ceb893ad</checksum>
+   </document>
+   <document index="64">
+      <naam>064_Informatieobject_als_bijlage.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Informatieobject als bijlage</titel>
+      <niveau>4</niveau>
+      <checksum>3eb5b4793d9136f52d8f38b77b52bfdb</checksum>
+   </document>
+   <document index="65">
+      <naam>065_Het_Informatiemodel_Omgevingswet.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Het Informatiemodel Omgevingswet</titel>
+      <niveau>2</niveau>
+      <checksum>1e7737036a2f8c65eac58d7105b22ccb</checksum>
+   </document>
+   <document index="66">
+      <naam>066_Verwijzing_naar_toepasselijke_toepassingsprofielen.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Verwijzing naar toepasselijke toepassingsprofielen</titel>
+      <niveau>3</niveau>
+      <checksum>7660c411e792b784233633d21a50190a</checksum>
+   </document>
+   <document index="67">
+      <naam>271_Objecttype_Regelingsgebied.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Objecttype Regelingsgebied</titel>
+      <niveau>3</niveau>
+      <checksum>d45658d907a1c14a5b45bac96779eb93</checksum>
+   </document>
+   <document index="68">
+      <naam>068_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>d3028d50fae43e4f29daf15ee9e4364d</checksum>
+   </document>
+   <document index="69">
+      <naam>069_Definitie.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>d721c8974beb98485fe474567b06a361</checksum>
+   </document>
+   <document index="70">
+      <naam>070_Doel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>b4747365c548f0c3fdf90bb3f9aea6fb</checksum>
+   </document>
+   <document index="71">
+      <naam>071_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>9fecadde789ea460fd68030653f964bc</checksum>
+      <afbeelding index="1">
+         <naam>image_03dfc35f530ec47b7d21038d9ea863bb.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>03dfc35f530ec47b7d21038d9ea863bb</checksum>
+      </afbeelding>
+   </document>
+   <document index="72">
+      <naam>072_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>77d86c4d50f8633a1517e205151649a0</checksum>
+   </document>
+   <document index="73">
+      <naam>298_Overige_modelleringsaspecten_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Overige modelleringsaspecten van het voorbereidingsbesluit</titel>
+      <niveau>2</niveau>
+      <checksum>e64f9e66c5662872df4715d1580d9901</checksum>
+   </document>
+   <document index="74">
+      <naam>074_Verwijzing_naar_toepasselijke_toepassingsprofielen.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Verwijzing naar toepasselijke toepassingsprofielen</titel>
+      <niveau>3</niveau>
+      <checksum>91a7a71efa354fe55da87561e98ed9b8</checksum>
+   </document>
+   <document index="75">
+      <naam>075_Standaardindeling_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Standaardindeling voorbereidingsbesluit</titel>
+      <niveau>3</niveau>
+      <checksum>7194687bf26b4ca09f76481dd42b68a1</checksum>
+   </document>
+   <document index="76">
+      <naam>076_Toelichting.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toelichting</titel>
+      <niveau>4</niveau>
+      <checksum>5cb87352fcba55d3c1c297c30a305899</checksum>
+      <afbeelding index="1">
+         <naam>image_5ee0a15c234159d8334cb30b356961f5.png</naam>
+         <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>5ee0a15c234159d8334cb30b356961f5</checksum>
+      </afbeelding>
+   </document>
+   <document index="77">
+      <naam>077_Norm.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>72e997f8dc51bd7cb8c41b3654d3ec98</checksum>
+   </document>
+   <document index="78">
+      <naam>078_Aspecten_van_de_aanlevering.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Aspecten van de aanlevering</titel>
+      <niveau>1</niveau>
+      <checksum>de3d43177ff6d7188841926471f2dbda</checksum>
+   </document>
+   <document index="79">
+      <naam>079_Aanlevering_van_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Aanlevering van omgevingsdocumenten</titel>
+      <niveau>2</niveau>
+      <checksum>02c01d72bd73424eabff941d3fc7305d</checksum>
+   </document>
+   <document index="80">
+      <naam>080_Identificatie_van_een_Regelingversie_met_Doel.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Identificatie van een Regelingversie met Doel</titel>
+      <niveau>3</niveau>
+      <checksum>c0c51718f5bb7d3fb9ba3a139e48f985</checksum>
+   </document>
+   <document index="81">
+      <naam>081_Algemeen.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Algemeen</titel>
+      <niveau>4</niveau>
+      <checksum>d40240ad243fe1b8cbb8de34876d7391</checksum>
+   </document>
+   <document index="82">
+      <naam>082_Toepassing_Doel_en_consolidatie-informatie_bij_voorbereidingsbesluit_en_daarop_volgende_besluiten.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing Doel en consolidatie-informatie bij voorbereidingsbesluit en daarop volgende besluiten</titel>
+      <niveau>4</niveau>
+      <checksum>2e1079a42c33b80cb7e155f829a88fc5</checksum>
+   </document>
+   <document index="83">
+      <naam>083_Toepassing_Doel_en_consolidatie-informatie_bij_aanlevering_voorbereidingsbesluit.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing Doel en consolidatie-informatie bij aanlevering voorbereidingsbesluit</titel>
+      <niveau>5</niveau>
+      <checksum>129154dae9739e22408967ee9226c49a</checksum>
+   </document>
+   <document index="84">
+      <naam>084_Toepassing_Doel_en_consolidatie-informatie_bij_aanleveren_van_op_voorbereidingsbesluit_volgend_besluit_tot_wijziging_omgevingsplan_of_omgevingsverordening.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing Doel en consolidatie-informatie bij aanleveren van op voorbereidingsbesluit volgend besluit tot wijziging omgevingsplan of omgevingsverordening</titel>
+      <niveau>5</niveau>
+      <checksum>dfbd864c26dd0ebbc6b6bb55d8feba59</checksum>
+   </document>
+   <document index="85">
+      <naam>085_Toepassing_Doel_en_consolidatie-informatie_bij_aanleveren_van_op_voorbereidingsbesluit_volgend_projectbesluit.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing Doel en consolidatie-informatie bij aanleveren van op voorbereidingsbesluit volgend projectbesluit</titel>
+      <niveau>5</niveau>
+      <checksum>809b7498f1c804c90fead51ebdc2a757</checksum>
+   </document>
+   <document index="86">
+      <naam>086_Toepassing_Doel_en_consolidatie-informatie_bij_aanleveren_van_op_voorbereidingsbesluit_volgende_instructieregel_of_instructie_en_daarop_volgend_besluit_tot_wijziging_omgevingsplan.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Toepassing Doel en consolidatie-informatie bij aanleveren van op voorbereidingsbesluit volgende instructieregel of instructie en daarop volgend besluit tot wijziging omgevingsplan</titel>
+      <niveau>5</niveau>
+      <checksum>6551069c2a9448eb9b8a8f8499e7e877</checksum>
+   </document>
+   <document index="87">
+      <naam>087_Procedure-informatie_en_consolidatie.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Procedure-informatie en consolidatie</titel>
+      <niveau>3</niveau>
+      <checksum>60e3d6b784e1fbe4aa40aca353b44044</checksum>
+   </document>
+   <document index="88">
+      <naam>088_Algemeen.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Algemeen</titel>
+      <niveau>4</niveau>
+      <checksum>11ac9b10195509fd9cc2f65f1c5c5fd3</checksum>
+   </document>
+   <document index="89">
+      <naam>089_Ontwerpbesluit.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Ontwerpbesluit</titel>
+      <niveau>4</niveau>
+      <checksum>db53a05524f8662413c400c34b2bc077</checksum>
+   </document>
+   <document index="90">
+      <naam>090_Definitief_besluit.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Definitief besluit</titel>
+      <niveau>4</niveau>
+      <checksum>f2155418295980d4aa6d9667e0d3ea42</checksum>
+   </document>
+   <document index="91">
+      <naam>091_Procedurestatus_van_onderdelen_van_de_Regeling.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Procedurestatus van onderdelen van de Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>4a55c9ebe49a994ec2fb6c73008572b6</checksum>
+   </document>
+   <document index="92">
+      <naam>092_Kennisgeving.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Kennisgeving</titel>
+      <niveau>3</niveau>
+      <checksum>6947a34764496fea66884b5c0db5ac00</checksum>
+   </document>
+   <document index="93">
+      <naam>093_Mutatiescenarios.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Mutatiescenario’s</titel>
+      <niveau>2</niveau>
+      <checksum>7c0ba246fb3f9f135debe90f08a7af5b</checksum>
+      <afbeelding index="1">
+         <naam>image_9eabfe9e03965c2ad2c4743094489dc6.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>9eabfe9e03965c2ad2c4743094489dc6</checksum>
+      </afbeelding>
+   </document>
+   <document index="94">
+      <naam>441_Bijlagen.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Bijlagen</titel>
+      <niveau>1</niveau>
+      <checksum>8e15882c9cdf73ec586a1849cbbf98b2</checksum>
+   </document>
+   <document index="95">
+      <naam>095_Versiehistorie_eerdere_versies.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Versiehistorie eerdere versies</titel>
+      <niveau>6</niveau>
+      <checksum>e85a84ca8a7857233486b6c247a8446a</checksum>
+   </document>
+   <document index="96">
+      <naam>096_Versiehistorie_eerdere_versies.docx</naam>
+      <omgevingswetbesluit id="vb">voorbereidingsbesluit</omgevingswetbesluit>
+      <versie>2.1.0</versie>
+      <titel>Versiehistorie eerdere versies</titel>
+      <niveau>6</niveau>
+      <checksum>5251d576325ef4fbe7c28479a8bd4a73</checksum>
+   </document>
+</manifest>

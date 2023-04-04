@@ -1,0 +1,2025 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+   <naam>TPOD Omgevingsvisie_werkversie.docx</naam>
+   <datum>2023-04-04T15:24:17.6+02:00</datum>
+   <colofon index="0">
+      <naam>000_Colofon.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <afbeelding index="1">
+         <naam>image_e698d2f4d0e67fbbb74cf02ac2d7a011.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>e698d2f4d0e67fbbb74cf02ac2d7a011</checksum>
+      </afbeelding>
+      <metadata>
+         <data name="ID00" value="5-4-2023"/>
+         <data name="ID01" value="omgevingsvisie"/>
+         <data name="ID01_CAPS" value="Omgevingsvisie"/>
+         <data name="ID01+" value="de omgevingsvisie"/>
+         <data name="ID01+_CAPS" value="De omgevingsvisie"/>
+         <data name="ID02" value="de"/>
+         <data name="ID03" value="ovi"/>
+         <data name="ID04" value="2.1.2"/>
+         <data name="ID05"
+               value="STandaard Officiële Publicaties met ToepassingsProfielen voor OmgevingsDocumenten (STOP/TPOD)"/>
+         <data name="ID06" value="PR33"/>
+         <data name="ID07" value="Nienke Jansen"/>
+         <data name="ID08" value="DSO project 33"/>
+      </metadata>
+      <versiehistorie>
+         <versie nummer="2.0.0-rc">
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hele document:</alinea>
+               <alinea opmaak="Opsomming tekens 1">Tekst gecorrigeerd en verbeterd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verduidelijkende afbeeldingen toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Term OW-object vervangen door OW-object</alinea>
+               <alinea opmaak="Opsomming tekens 1">Woord symbolisatiebibliotheek vervangen door symbolenbibliotheek, overal waar dat voorkwam (WELT-146)</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 1.2 STOP, IMOW en TPOD</alinea>
+               <alinea opmaak="Opsomming tekens 1">Tekst toegevoegd over het aanwijzen van omgevingsdocumenten en verplicht stellen van het gebruik van STOP, IMOW en toepassingsprofiel door Omgevingsregeling en Regeling standaarden publicaties Omgevingswet</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwerkt huidig inzicht in welke producten tot de standaard behoren, welke serviceproducten zijn en voor welke doelgroep ze bedoeld zijn</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 2.2 Algemene kenmerken</alinea>
+               <alinea opmaak="Opsomming tekens 1">In tabel 2 de onderdelen over besluit en besluitonderdelen verwijderd i.v.m. nieuwe opzet hoofdstuk 4 waarin niet langer sprake is van besluit en besluitonderdelen, maar de 2.2 opzet van wordt voorgeschreven aan de hand van de STOP-modellen voor Besluit en Regeling</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 2.4 Overgangsrecht en overgangsfase</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving van de onderdelen waaruit het tijdelijk deel van het omgevingsplan bestaat aangevuld met de rechtsfiguren die daar als gevolg van de Aanvullingswet bodem aan zijn toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 3.5 Waardelijsten</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd dat de waardelijsten zijn vastgelegd in de Stelselcatalogus</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 3.6 Presentatiemodel</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijderd beschrijving attribuut specifiekeSymbolisatie</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijderd beschrijving dat Presentatiemodel vastlegt hoe wijzigingen in wijzigingsbesluit worden gepresenteerd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwerkt dat de symboolcodes voor de standaardweergave niet langer in een afzonderlijke symbolisatietabel staan, maar zijn opgenomen in de IMOW-waardelijsten</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 4 De vormgeving van Besluit en Regeling in</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk volledig vervangen door nieuwe tekst. Daarin is de beschrijving van de drie onderdelen van het besluit vervangen door de beschrijving van de vormgeving en onderdelen van Besluit en regeling aan de hand van de STOP-modellen</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 5 Toepassing van de STOP-tekststructuren op omgevingsdocumenten</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk herschreven zodat het beter aansluit op STOP in de beschrijving welke onderdelen van Besluit en Regeling Artikelstructuur respectievelijk Vrijetekststructuur hebben</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 5.2 Specificatie van de Vrijetekststructuur</alinea>
+               <alinea opmaak="Opsomming tekens 2">Norm en toelichting aangepast op gewijzigd inzicht over positie van het element Divisietekst in de modellen: geen structuurelement maar inhoudelijke bouwsteen</alinea>
+               <alinea opmaak="Opsomming tekens 2">Bepaling dat de Kop van Divisietekst in een aantal gevallen verplicht is gewijzigd in altijd optioneel</alinea>
+               <alinea opmaak="Opsomming tekens 2">Toelichting volledig herschreven en afbeeldingen toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 6 Inleiding op het Informatiemodel Omgevingswet</alinea>
+               <alinea opmaak="Opsomming tekens 1">Dit is het inleidende deel van het voormalige zeer uitgebreide Hoofdstuk 6, dat nu is gesplitst in 2 hoofdstukken. De detailbeschrijving van de objecttypen staat nu in Hoofdstuk 7</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.1 Productmodel: het IMOW-UML-diagram voor</alinea>
+               <alinea opmaak="Opsomming tekens 1">Productmodel vervangen door nieuwe versie, geactualiseerd op de hierna volgende punten</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragrafen 7.2 t/m 7.8 expliciet beschreven dat annotaties met OW-objecten alleen kunnen worden toegepast op het Lichaam van de Regeling van omgevingsdocumenten</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.2 Objecttype Divisie</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd de opmerking dat in omgevingsdocumenten met Vrijetekststructuur geannoteerd kan worden op (STOP)structuurelementen én op STOP-elementen die inhoud bevatten en wanneer naar verwachting de ene of juist de andere mogelijkheid toegepast zal worden</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd beschrijving van onderscheid tussen Divisie en Divisietekst</alinea>
+               <alinea opmaak="Opsomming tekens 1">Definitie aangepast i.v.m. introductie van het objecttype Divisietekst in IMOW</alinea>
+               <alinea opmaak="Opsomming tekens 1">Uitsnede uit IMOW-diagram aangepast</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.3 Objecttype Divisietekst</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf toegevoegd i.v.m. introductie van het objecttype Divisietekst in IMOW</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.4 Objecttype Tekstdeel</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd dat Tekstdeel zowel bij Divisie als bij Divisietekst kan voorkomen</alinea>
+               <alinea opmaak="Opsomming tekens 1">Gewijzigd de beschrijving van het attribuut divisieaanduiding i.v.m. de introductie van het keuze-element DivisieOfDivisietekst, waarmee de keuze tussen Divisie en Divisietekst wordt gemaakt</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd attribuut kaartaanduiding. Dit attribuut was al vermeld in de paragraaf over het objecttype Kaart maar niet bij het objecttype Tekstdeel waar het hoort</alinea>
+               <alinea opmaak="Opsomming tekens 1">Uitsnede uit IMOW-diagram aangepast</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.5 Objecttype Hoofdlijn</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd opmerking over de mogelijkheid om in omgevingsdocumenten met Vrijetekststructuur te annoteren op (STOP)structuurelementen én op STOP-elementen die inhoud bevatten</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.6 Locatie</alinea>
+               <alinea opmaak="Opsomming tekens 1">Vastgelegd dat naar Ambtsgebied altijd statisch verwezen moet worden; dynamisch verwijzen is vanwege de mogelijkheid van bestuurlijke herindeling onwenselijk gebleken</alinea>
+               <alinea opmaak="Opsomming tekens 1">Kader met dynamisch verwijzen naar Ambtsgebied als Toekomstige functionaliteit verwijderd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd toelichting over aanleveren Ambtsgebied</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.8 Objecttype Gebiedsaanwijzing</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toelichting op de toepassing herschreven en tabel toegevoegd met overzicht welk Gebiedsaanwijzingtype in welk omgevingsdocument toegepast kan worden</alinea>
+               <alinea opmaak="Opsomming tekens 1">Attribuut specifiekeSymbolisatie verwijderd (nu definitief vervangen door objecttype SymbolisatieItem)</alinea>
+               <alinea opmaak="Opsomming tekens 1">In deze paragraaf zijn de paragraaf over het objecttype Gebiedsaanwijzing en de paragrafen over de verschillende typen Gebiedsaanwijzing samengevoegd. Hierbij zijn de paragrafen over de verschillende typen Gebiedsaanwijzing zo ingekort dat tekstdubbelingen zijn verwijderd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.9 Objecttype SymbolisatieItem</alinea>
+               <alinea opmaak="Opsomming tekens 1">Iedere vermelding van het (nu vervallen) attribuut specifiekeSymbolisatie verwijderd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.10 Objecttype Kaart</alinea>
+               <alinea opmaak="Opsomming tekens 1">Cardinaliteit attribuut nummer gecorrigeerd (WELT-127)</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.11 Objecttype Kaartlaag</alinea>
+               <alinea opmaak="Opsomming tekens 1">Vermelding van het (nu vervallen) attribuut specifiekeSymbolisatie verwijderd</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.12 Objecttype Regelingsgebied</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd dat Regelingsgebied hoort bij de Regeling en niet wordt gekoppeld aan een Juridische regel of Tekstdeel</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 7.13 Het niveau van annoteren</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd Divisietekst als niveau waarop geannoteerd kan worden</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Hoofdstuk 8 Overige modelleringsaspecten van</alinea>
+               <alinea opmaak="Opsomming tekens 1">Hoofdstuk toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Naar dit hoofdstuk de voormalige paragrafen 5.4 (Standaardindeling), 5.5 (Verwijzing) en 6.7 (Verplichte en onverplichte onderdelen) verplaatst</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf 8.5 “Onderdelen van de standaard die voor omgevingsdocumenten met Vrijetekststructuur verplicht of noodzakelijk zijn” herschreven</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-15">
+               <alinea opmaak="Standaard">Paragraaf 9.3 Kennisgeving</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving van het element Divisietekst aangepast: de Kop is nu altijd optioneel</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.0">
+            <wijziging datum="2021-06-29">
+               <alinea opmaak="Standaard">Paragraaf 4.3 De vormgeving van Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Gebruik van WijzigLid aangescherpt (STOP#184)</alinea>
+            </wijziging>
+            <wijziging datum="2021-06-29">
+               <alinea opmaak="Standaard">Paragraaf 7.6 Objecttype Locatie (WELT-170)</alinea>
+               <alinea opmaak="Opsomming tekens 1">Bij het attribuut identificatie is de uitzondering voor Ambtsgebied vervallen: identificatie is nu in alle gevallen conform datatype NEN3610-ID; de toelichting op dit attribuut is verwijderd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Aan Ambtsgebied, een van de verschijningsvormen van Locatie, is het attribuut bestuurlijkeGrenzenVerwijzing toegevoegd, dat wordt ingevuld met de gegevensgroep BestuurlijkeGrenzenVerwijzing waarin zijn samengevoegd het nieuwe attribuut bestuurlijkeGrenzenID en de bestaande attributen domein en geldigOp; de toelichting is hierop aangepast</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.1-rc">
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hele document:</alinea>
+               <alinea opmaak="Opsomming tekens 1">tekst gecorrigeerd en verbeterd</alinea>
+               <alinea opmaak="Opsomming tekens 1">tekst geactualiseerd n.a.v. wijzigingen in wet- en regelgeving</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.0.1-rc ">
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hoofdstuk 4 De vormgeving van Besluit en Regeling bij</alinea>
+               <alinea opmaak="Opsomming tekens 1">Beschrijving Besluitmodel in overeenstemming gebracht met STOP: in BesluitCompact wordt een WijzigArtikel niet onderverdeeld in WijzigLeden</alinea>
+               <alinea opmaak="Opsomming tekens 1">Bepaald wanneer gebruik gemaakt mag worden van een PDF-bijlage in Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Modellering Toelichting en ArtikelgewjizigeToelichting aangepast en advies toegevoegd over de toepassing hiervan, met het oog op de toekomstige vereenvoudiging van deze elementen (STOP#194)</alinea>
+               <alinea opmaak="Opsomming tekens 1">Advies toegevoegd om in het Besluit het element Inhoudsopgave niet te gebruiken</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 5.2 Specificatie van de Vrijetekststructuur</alinea>
+               <alinea opmaak="Opsomming tekens 1">Aangegeven dat voor lijsten gekozen kan worden tussen Lijst van het type expliciet en Lijst van het type ongemarkeerd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Figuren toegevoegd en bestaande figuren verduidelijkt</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 5.3 Bijlagen bij Besluit en Regeling</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegelicht wanneer gebruik gemaakt mag worden van een PDF-bijlage in Besluit en Regeling</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 6.1.2.2 Vastleggen van Locatie met geografisch informatieobject</alinea>
+               <alinea opmaak="Opsomming tekens 1">Tekst over gebruik van GIO in meerdere omgevingsdocumenten verplaatst naar specifieke paragraaf over dit onderwerpe: 8.3</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 7.2 Objecttype Divisie</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toelichting inclusief figuren toegevoegd over de doorwerking van het annoteren op het niveau van Divisie</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 7.3 Objecttype Divisietekst</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toelichting toegevoegd over de doorwerking van het annoteren op het niveau van Divisietekst</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 7.4 Objecttype Tekstdeel</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd waarschuwing over gevolg van niet annoteren van Tekstdeel met Locatie</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 7.8 Objecttype Gebiedsaanwijzing</alinea>
+               <alinea opmaak="Opsomming tekens 1">Toegevoegd Bouw als nieuw type Gebiedsaanwijzing (voor omgevingsplan) (WELT-177)</alinea>
+               <alinea opmaak="Opsomming tekens 1">Verwijderd bepaling dat een Gebiedsaanwijzing alleen mag verwijzen naar gebieden of gebiedengroepen en toelichting daarover toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 8.2 hernoemd tot Tekstverwijzing (was Verwijzing)</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 8.3 Hergebruik van en verwijzen naar GIO’s en OW-objecten in een ander omgevingsdocument</alinea>
+               <alinea opmaak="Opsomming tekens 1">Paragraaf toegevoegd</alinea>
+               <alinea opmaak="Opsomming tekens 1">Mogelijkheden van hergebruik en verwijzingen beschreven</alinea>
+               <alinea opmaak="Opsomming tekens 1">Advies over gebruik van deze mogelijkheden toegevoegd</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Paragraaf 8.4 Muteren van OW-objecten verplaatst naar dit hoofdstuk, stond in hoofdstuk 9</alinea>
+            </wijziging>
+            <wijziging datum="2021-12-17">
+               <alinea opmaak="Standaard">Hoofdstuk 10 Mutatiescenario’s toegevoegd</alinea>
+               <alinea opmaak="Standaard">Beschrijving van mutatiescenario Integrale Tekstvervanging en wanneer dit mag worden toegepast (STOP#191)</alinea>
+            </wijziging>
+         </versie>
+         <versie nummer="2.1.0">
+            <wijziging datum="2022-01-07">
+               <alinea opmaak="Standaard">Hoofdstuk 9 gewijzigd van algemene beschrijving naar specifieke beschrijving van de procedure van en de producten en gegevens die tijdens die procedure moeten worden aangeleverd</alinea>
+            </wijziging>
+         </versie>
+      </versiehistorie>
+   </colofon>
+   <document index="1">
+      <naam>001_Uitgangspunten_voor_de_modellering.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Uitgangspunten voor de modellering</titel>
+      <niveau>1</niveau>
+      <checksum>70b07588f5bcccc211add9f1c3903d72</checksum>
+   </document>
+   <document index="2">
+      <naam>002_Inleiding.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Inleiding</titel>
+      <niveau>2</niveau>
+      <checksum>df015b85f32813c167010491ffce24ac</checksum>
+   </document>
+   <document index="3">
+      <naam>003_Aanleiding.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Aanleiding</titel>
+      <niveau>3</niveau>
+      <checksum>dd201d3238f9a4bc28a91e117175da60</checksum>
+   </document>
+   <document index="4">
+      <naam>004_Nieuw_stelsel_omgevingsrecht.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Nieuw stelsel omgevingsrecht</titel>
+      <niveau>4</niveau>
+      <checksum>246bfbf774e3cc51b6dea74ec90a8836</checksum>
+   </document>
+   <document index="5">
+      <naam>005_LVBB_overheidnl_en_DSO-LV.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>LVBB, overheid.nl en DSO-LV</titel>
+      <niveau>4</niveau>
+      <checksum>58188c849ea00fb63097a6737a5129ec</checksum>
+   </document>
+   <document index="6">
+      <naam>006_STOP_IMOW_en_TPOD.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>STOP, IMOW en TPOD</titel>
+      <niveau>3</niveau>
+      <checksum>f2afbca66caeb150aef79b01545bc118</checksum>
+   </document>
+   <document index="7">
+      <naam>007_Leeswijzer.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Leeswijzer</titel>
+      <niveau>3</niveau>
+      <checksum>9149fa027b2359345d4a37d898da096f</checksum>
+   </document>
+   <document index="8">
+      <naam>008_Inhoudelijke_aspecten_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Inhoudelijke aspecten van de omgevingsvisie</titel>
+      <niveau>2</niveau>
+      <checksum>c82efb53aeeccbe7294f2d49890d4a41</checksum>
+   </document>
+   <document index="9">
+      <naam>009_Kenschets_rechtsfiguur.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Kenschets rechtsfiguur</titel>
+      <niveau>3</niveau>
+      <checksum>9a3343cd3eeb368a3c5793996f9a72b3</checksum>
+   </document>
+   <document index="10">
+      <naam>010_Algemene_kenmerken_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Algemene kenmerken omgevingsvisie</titel>
+      <niveau>3</niveau>
+      <checksum>d7ab11ddcd0fb76ceade1ad1a93be2e6</checksum>
+   </document>
+   <document index="11">
+      <naam>011_De_inhoud_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De inhoud van de omgevingsvisie</titel>
+      <niveau>3</niveau>
+      <checksum>c39c7428bef7656a2e6d61a841c03ee6</checksum>
+   </document>
+   <document index="12">
+      <naam>012_Overgangsrecht_en_overgangsfase.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Overgangsrecht en overgangsfase</titel>
+      <niveau>3</niveau>
+      <checksum>ae3df02c718936f8e3634f63ca779e13</checksum>
+   </document>
+   <document index="13">
+      <naam>016_Uitgangspunten_voor_de_toepassingsprofielen_voor_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Uitgangspunten voor de toepassingsprofielen voor omgevingsdocumenten</titel>
+      <niveau>2</niveau>
+      <checksum>eb945db79b184000ed6baed12a4eeef2</checksum>
+   </document>
+   <document index="14">
+      <naam>014_Proces_van_totstandkoming_en_bekendmaking_cq_publicatie_van_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Proces van totstandkoming en bekendmaking c.q. publicatie van omgevingsdocumenten</titel>
+      <niveau>3</niveau>
+      <checksum>cadb4fa49ad976b5fe4ff6026aa7632f</checksum>
+   </document>
+   <document index="15">
+      <naam>018_Omgevingsdocumenten_met_en_zonder_regels.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Omgevingsdocumenten met en zonder regels</titel>
+      <niveau>3</niveau>
+      <checksum>a2fe43aeaa55c167fc217f6d0b3a279e</checksum>
+   </document>
+   <document index="16">
+      <naam>019_Initieel_besluit_wijzigingsbesluit_en_geconsolideerde_Regeling.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Initieel besluit, wijzigingsbesluit en geconsolideerde Regeling</titel>
+      <niveau>3</niveau>
+      <checksum>f07a219a99ed210f0e6aff4c4a810631</checksum>
+   </document>
+   <document index="17">
+      <naam>017_Annoteren.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Annoteren</titel>
+      <niveau>3</niveau>
+      <checksum>db316c1efff53b23190ee1c3bc7eb289</checksum>
+   </document>
+   <document index="18">
+      <naam>018_Waardelijsten.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Waardelijsten</titel>
+      <niveau>3</niveau>
+      <checksum>4a26b984d70c773163d7334c547897c6</checksum>
+   </document>
+   <document index="19">
+      <naam>019_Presentatiemodel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Presentatiemodel</titel>
+      <niveau>3</niveau>
+      <checksum>96e72a2800dff731ef293a5f3c0ad647</checksum>
+      <afbeelding index="1">
+         <naam>image_60ce1a4c781961dc481587f7f75b45e1.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>60ce1a4c781961dc481587f7f75b45e1</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_bab2c4a6b7edfb2d69b2df42ad1ac165.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>bab2c4a6b7edfb2d69b2df42ad1ac165</checksum>
+      </afbeelding>
+   </document>
+   <document index="20">
+      <naam>023_Metadata.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Metadata</titel>
+      <niveau>3</niveau>
+      <checksum>efe8b49772aab2a83e0918b3aa1805c1</checksum>
+   </document>
+   <document index="21">
+      <naam>024_Van_plan_tot_publicatie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Van plan tot publicatie</titel>
+      <niveau>3</niveau>
+      <checksum>ad9ae15e60cd868fda00aae4b9e99100</checksum>
+   </document>
+   <document index="22">
+      <naam>022_Het_aanleverproces.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Het aanleverproces</titel>
+      <niveau>4</niveau>
+      <checksum>a1cd06f1f113f983ea563d0390bc5933</checksum>
+      <afbeelding index="1">
+         <naam>image_42f3946500bb14921a61884f24e83523.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>42f3946500bb14921a61884f24e83523</checksum>
+      </afbeelding>
+   </document>
+   <document index="23">
+      <naam>026_Raadplegen.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Raadplegen</titel>
+      <niveau>4</niveau>
+      <checksum>8e6f0747cdd29a39f28eeb2fe67e1bbe</checksum>
+   </document>
+   <document index="24">
+      <naam>027_Raadplegen_in_het_officiele_publicatieblad.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Raadplegen in het officiële publicatieblad</titel>
+      <niveau>5</niveau>
+      <checksum>ea183a1a706960b68ee28e248cf1c688</checksum>
+   </document>
+   <document index="25">
+      <naam>028_Raadplegen_in_DSO-LV.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Raadplegen in DSO-LV</titel>
+      <niveau>5</niveau>
+      <checksum>b157fe8521ca264c86026c65fcf66d50</checksum>
+   </document>
+   <document index="26">
+      <naam>026_Modellering_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Modellering van de omgevingsvisie</titel>
+      <niveau>1</niveau>
+      <checksum>38b34ea24acf4135330e6575dcc4915a</checksum>
+   </document>
+   <document index="27">
+      <naam>030_De_vormgeving_van_Besluit_en_Regeling_bij_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De vormgeving van Besluit en Regeling bij de omgevingsvisie</titel>
+      <niveau>2</niveau>
+      <checksum>f9cef8ba70a4f0d5db55afa0b90616d8</checksum>
+   </document>
+   <document index="28">
+      <naam>028_Besluit_juridisch_geldende_versie_en_geconsolideerde_Regeling_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Besluit, juridisch geldende versie en (geconsolideerde) Regeling van de omgevingsvisie</titel>
+      <niveau>3</niveau>
+      <checksum>40f57fc1fa438dfb73743677809e61dc</checksum>
+   </document>
+   <document index="29">
+      <naam>029_Modellen_voor_Besluit_en_Regeling_en_tekststructuren.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Modellen voor Besluit en Regeling en tekststructuren</titel>
+      <niveau>3</niveau>
+      <checksum>65ed997b67f4dded1e5f95a7d1f352c7</checksum>
+   </document>
+   <document index="30">
+      <naam>030_Modellen_voor_Besluit_en_Regeling.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Modellen voor Besluit en Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>764935162743b0c21f3691c39b9ddb77</checksum>
+   </document>
+   <document index="31">
+      <naam>031_Tekststructuren.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Tekststructuren</titel>
+      <niveau>4</niveau>
+      <checksum>818f22d7527e2e5395841acaaf2ef1d9</checksum>
+   </document>
+   <document index="32">
+      <naam>055_De_vormgeving_van_Besluit_en_Regeling_bij_omgevingsdocumenten_met_Vrijetekststructuur.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De vormgeving van Besluit en Regeling bij omgevingsdocumenten met Vrijetekststructuur</titel>
+      <niveau>3</niveau>
+      <checksum>e03fc517d9180249ae61dff583f3ded1</checksum>
+   </document>
+   <document index="33">
+      <naam>033_Inleiding.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Inleiding</titel>
+      <niveau>4</niveau>
+      <checksum>8aac05d7c4795138bcc77f348e66fb3d</checksum>
+   </document>
+   <document index="34">
+      <naam>034_Besluit.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Besluit</titel>
+      <niveau>4</niveau>
+      <checksum>dccb7f9d5cd6c911581f313376045f48</checksum>
+   </document>
+   <document index="35">
+      <naam>035_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>55e1477ec8247904d79c42fa994503a6</checksum>
+   </document>
+   <document index="36">
+      <naam>036_Toelichting.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>3f3824f5fb59c66b65935eae1bb053e2</checksum>
+   </document>
+   <document index="37">
+      <naam>037_Voorbeeld.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Voorbeeld</titel>
+      <niveau>5</niveau>
+      <checksum>4f6b8495c85a34e23533daa85e29bd6b</checksum>
+      <afbeelding index="1">
+         <naam>image_3f35d694ef5f2e6f366253a13a2b29da.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>3f35d694ef5f2e6f366253a13a2b29da</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_720dd6654f8a27696fe1a154dc966e49.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>720dd6654f8a27696fe1a154dc966e49</checksum>
+      </afbeelding>
+   </document>
+   <document index="38">
+      <naam>038_Regeling.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>8f3c70dfb02271ff2b899041ca173e21</checksum>
+   </document>
+   <document index="39">
+      <naam>039_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>5</niveau>
+      <checksum>ce523b00d9ac6db71700014a815ff805</checksum>
+   </document>
+   <document index="40">
+      <naam>040_Toelichting.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting</titel>
+      <niveau>5</niveau>
+      <checksum>6eb68d7348a97ee7fcc9515694e2698e</checksum>
+   </document>
+   <document index="41">
+      <naam>066_Voorbeeld.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Voorbeeld</titel>
+      <niveau>5</niveau>
+      <checksum>c8adaa5a6015adf173e6fbe543e31b1d</checksum>
+      <afbeelding index="1">
+         <naam>image_0b9bf80f0242034d832428bc779eaf1a.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>0b9bf80f0242034d832428bc779eaf1a</checksum>
+      </afbeelding>
+   </document>
+   <document index="42">
+      <naam>128_Toepassing_van_de_STOP-tekststructuren_op_omgevingsdocumenten.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toepassing van de STOP-tekststructuren op omgevingsdocumenten</titel>
+      <niveau>2</niveau>
+      <checksum>78342923d4970b654543d726a31456da</checksum>
+   </document>
+   <document index="43">
+      <naam>129_Soorten_tekststructuur.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Soorten tekststructuur</titel>
+      <niveau>3</niveau>
+      <checksum>822ed09600855c5ac22da8c47916c078</checksum>
+   </document>
+   <document index="44">
+      <naam>044_Specificatie_van_de_Vrijetekststructuur.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Specificatie van de Vrijetekststructuur</titel>
+      <niveau>3</niveau>
+      <checksum>aef03e82b489fa65ec615f71029b567a</checksum>
+   </document>
+   <document index="45">
+      <naam>045_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>78fe15415d3ba9eedbc92519879e6d56</checksum>
+   </document>
+   <document index="46">
+      <naam>046_Toelichting.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting</titel>
+      <niveau>4</niveau>
+      <checksum>488cd53e33fca9df8c1359362b1671a0</checksum>
+      <afbeelding index="1">
+         <naam>image_3b88d0ca14d4a1131ddd3d09322d0f80.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>3b88d0ca14d4a1131ddd3d09322d0f80</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_308d73c5eeb95c5475a32a49713e1a8e.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>308d73c5eeb95c5475a32a49713e1a8e</checksum>
+      </afbeelding>
+      <afbeelding index="3">
+         <naam>image_60c34bf1949e9373852a157dffd93aaa.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>60c34bf1949e9373852a157dffd93aaa</checksum>
+      </afbeelding>
+      <afbeelding index="4">
+         <naam>image_c4228831cd663776649a4d446358a91e.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>c4228831cd663776649a4d446358a91e</checksum>
+      </afbeelding>
+      <afbeelding index="5">
+         <naam>image_ec906554be7c4b2d5842c06455209704.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>ec906554be7c4b2d5842c06455209704</checksum>
+      </afbeelding>
+      <afbeelding index="6">
+         <naam>image_fca832b28ca0f75f56e81da117ed009a.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>fca832b28ca0f75f56e81da117ed009a</checksum>
+      </afbeelding>
+   </document>
+   <document index="47">
+      <naam>047_Bijlagen_bij_Besluit_en_Regeling.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Bijlagen bij Besluit en Regeling</titel>
+      <niveau>3</niveau>
+      <checksum>83b5a237c0b841e5e5cdebf61a136309</checksum>
+   </document>
+   <document index="48">
+      <naam>048_Bijlage_als_onderdeel_van_de_tekst_in_STOP-XML.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Bijlage als onderdeel van de tekst in STOP-XML</titel>
+      <niveau>4</niveau>
+      <checksum>5569d2de545b506d8bc8df23ceb893ad</checksum>
+   </document>
+   <document index="49">
+      <naam>049_Informatieobject_als_bijlage.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Informatieobject als bijlage</titel>
+      <niveau>4</niveau>
+      <checksum>442c628288aece9637f5b714440cf324</checksum>
+   </document>
+   <document index="50">
+      <naam>050_Inleiding_op_het_Informatiemodel_Omgevingswet.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Inleiding op het Informatiemodel Omgevingswet</titel>
+      <niveau>2</niveau>
+      <checksum>18c11c470543702a27922e11c05f913b</checksum>
+   </document>
+   <document index="51">
+      <naam>051_De_drie_hoofdcomponenten_van_IMOW_tekst_locatie_en_annotatie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De drie hoofdcomponenten van IMOW: tekst, locatie en annotatie</titel>
+      <niveau>3</niveau>
+      <checksum>c80eb118a4af5f21f456700f2f552c60</checksum>
+      <afbeelding index="1">
+         <naam>image_e878dd8915d9f1cd5d5ebe2fa4c00cad.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>e878dd8915d9f1cd5d5ebe2fa4c00cad</checksum>
+      </afbeelding>
+   </document>
+   <document index="52">
+      <naam>052_Tekst.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Tekst</titel>
+      <niveau>4</niveau>
+      <checksum>07146d7968a7430df09883bf26631f4a</checksum>
+   </document>
+   <document index="53">
+      <naam>053_Regeltekst_en_Juridische_regel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Regeltekst en Juridische regel</titel>
+      <niveau>5</niveau>
+      <checksum>0f57f916ef62e6adedf2826c0b0a986b</checksum>
+   </document>
+   <document index="54">
+      <naam>054_Divisie_Divisietekst_en_Tekstdeel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Divisie, Divisietekst en Tekstdeel</titel>
+      <niveau>5</niveau>
+      <checksum>5f33fec330b81e05e81d417082caee9d</checksum>
+   </document>
+   <document index="55">
+      <naam>145_Locatie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Locatie</titel>
+      <niveau>4</niveau>
+      <checksum>1ba526caeaa7bd756947069291f90624</checksum>
+   </document>
+   <document index="56">
+      <naam>056_Werkingsgebied_en_Locatie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Werkingsgebied en Locatie</titel>
+      <niveau>5</niveau>
+      <checksum>308604f693e25286d77846dafba4dd38</checksum>
+      <afbeelding index="1">
+         <naam>image_cce9e08a292dd1ceaa7ab4f587cd6a35.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>cce9e08a292dd1ceaa7ab4f587cd6a35</checksum>
+      </afbeelding>
+   </document>
+   <document index="57">
+      <naam>057_Vastleggen_van_Locatie_met_geografisch_informatieobject.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Vastleggen van Locatie met geografisch informatieobject</titel>
+      <niveau>5</niveau>
+      <checksum>ad008330fccb060c48ad8b3d7a2b0952</checksum>
+      <afbeelding index="1">
+         <naam>image_7d0301e5dd9c40d381aac2f57983effd.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>7d0301e5dd9c40d381aac2f57983effd</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_1a5d883f1119ee7cf688b9a9d05b76fa.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>1a5d883f1119ee7cf688b9a9d05b76fa</checksum>
+      </afbeelding>
+   </document>
+   <document index="58">
+      <naam>058_Annotatie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Annotatie</titel>
+      <niveau>4</niveau>
+      <checksum>727557be1cc1a49ca649de576274e7bb</checksum>
+   </document>
+   <document index="59">
+      <naam>059_De_bedoeling_van_het_annoteren_met_OW-objecten.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De bedoeling van het annoteren met OW-objecten</titel>
+      <niveau>3</niveau>
+      <checksum>e25eb2d38c8206df62dff5defc49ca5b</checksum>
+      <afbeelding index="1">
+         <naam>image_c1a7835e256d9b0e7f656defa762f7cd.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>c1a7835e256d9b0e7f656defa762f7cd</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_19e4ab15deb0a0f516dbee9d868a998f.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>19e4ab15deb0a0f516dbee9d868a998f</checksum>
+      </afbeelding>
+   </document>
+   <document index="60">
+      <naam>060_Annoteren_met_OW-objecten_productmodel_objecten_en_attributen.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Annoteren met OW-objecten: productmodel, objecten en attributen</titel>
+      <niveau>2</niveau>
+      <checksum>be06ecfa9390759f7c5670d0eaa89574</checksum>
+   </document>
+   <document index="61">
+      <naam>061_Productmodel_het_IMOW-UML-diagram_voor_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Productmodel: het IMOW-UML-diagram voor de omgevingsvisie</titel>
+      <niveau>3</niveau>
+      <checksum>b65ebb6cf5d4d58588ab2d97055cc363</checksum>
+      <afbeelding index="1">
+         <naam>image_b5ca2f8a540bf105e04bb188a23d6e63.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>b5ca2f8a540bf105e04bb188a23d6e63</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_8d9e92a9c490141be312e6cacdb05990.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>8d9e92a9c490141be312e6cacdb05990</checksum>
+      </afbeelding>
+   </document>
+   <document index="62">
+      <naam>165_Objecttype_Divisie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Divisie</titel>
+      <niveau>3</niveau>
+      <checksum>3cdd0428cb3ecefa11f06a387a318708</checksum>
+   </document>
+   <document index="63">
+      <naam>063_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>d6b3c63481300eb2509c1290318e3303</checksum>
+      <afbeelding index="1">
+         <naam>image_95983c7dd7c2ca4d7ea1b4b5dbbcc9c8.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>95983c7dd7c2ca4d7ea1b4b5dbbcc9c8</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_37d027b9bb139fffebbd01bc09c2a854.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>37d027b9bb139fffebbd01bc09c2a854</checksum>
+      </afbeelding>
+   </document>
+   <document index="64">
+      <naam>167_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>09acace80b17ea01cb20c0af3e171a2c</checksum>
+   </document>
+   <document index="65">
+      <naam>168_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>7586a16a936a5b409ada85586930353d</checksum>
+   </document>
+   <document index="66">
+      <naam>169_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>8dcd9710c1f237bbe5ccf1006bb2ff67</checksum>
+      <afbeelding index="1">
+         <naam>image_7268ec2a65b49b29b84d5a346bf41b08.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>7268ec2a65b49b29b84d5a346bf41b08</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_c719088495b7cbee5a1855c47dcebcbf.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>c719088495b7cbee5a1855c47dcebcbf</checksum>
+      </afbeelding>
+   </document>
+   <document index="67">
+      <naam>170_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>065e127653efe9bb8acdb75619a4f496</checksum>
+   </document>
+   <document index="68">
+      <naam>171_Objecttype_Divisietekst.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Divisietekst</titel>
+      <niveau>3</niveau>
+      <checksum>75aaeda1decb78bfe920dcdec054a6f3</checksum>
+   </document>
+   <document index="69">
+      <naam>172_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>733e757bf4838528fd8913e6c6174cb2</checksum>
+   </document>
+   <document index="70">
+      <naam>173_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>f1af3c7af698991c709c83cc24f335bf</checksum>
+   </document>
+   <document index="71">
+      <naam>174_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>a0c8cd69f158a0bbb65a111f69d8b1a9</checksum>
+   </document>
+   <document index="72">
+      <naam>175_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>8ccbaa7431d6647156b5c503fbb89590</checksum>
+      <afbeelding index="1">
+         <naam>image_8504bc0f1d8af31f976c9a7a86e4c5f3.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>8504bc0f1d8af31f976c9a7a86e4c5f3</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_817442c1620a1d56d637b072706c51c1.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>817442c1620a1d56d637b072706c51c1</checksum>
+      </afbeelding>
+   </document>
+   <document index="73">
+      <naam>176_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>14d51c775d9abab5bb96677ec9729cc6</checksum>
+   </document>
+   <document index="74">
+      <naam>177_Objecttype_Tekstdeel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Tekstdeel</titel>
+      <niveau>3</niveau>
+      <checksum>39d2a04c6da9bf7dfab5d6333176fcaa</checksum>
+   </document>
+   <document index="75">
+      <naam>178_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>fe4f82ec1962e1a7ce1ab5129f184fd9</checksum>
+   </document>
+   <document index="76">
+      <naam>179_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>8681121fecce474d3aa7fd4d952bbdb5</checksum>
+   </document>
+   <document index="77">
+      <naam>077_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>6a024c01ca8275d8525ffd5f6b465a07</checksum>
+   </document>
+   <document index="78">
+      <naam>078_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>91834c9e37dd2a716511cc001124c099</checksum>
+      <afbeelding index="1">
+         <naam>image_aa9f229d98ced0c5e22d4e1b20c7d6f8.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>aa9f229d98ced0c5e22d4e1b20c7d6f8</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_b9b4395be8446d24392628124edbead1.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>b9b4395be8446d24392628124edbead1</checksum>
+      </afbeelding>
+   </document>
+   <document index="79">
+      <naam>079_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>808a591f51c5baabd762ad63050e2135</checksum>
+   </document>
+   <document index="80">
+      <naam>183_Objecttype_Hoofdlijn.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Hoofdlijn</titel>
+      <niveau>3</niveau>
+      <checksum>69e5d58d887f34bdd3a631ae844aea8c</checksum>
+   </document>
+   <document index="81">
+      <naam>081_Toelichting_op_toepassing.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>91ede9fd5b2946f8d765640c57f09ee1</checksum>
+   </document>
+   <document index="82">
+      <naam>185_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>9a14295baaa2a5fb01209bf72534dd57</checksum>
+   </document>
+   <document index="83">
+      <naam>083_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>f4ec0a0c37034e983384a0e9417679f7</checksum>
+   </document>
+   <document index="84">
+      <naam>187_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>83cc8b50a1ada447cca83c45aee5edf6</checksum>
+      <afbeelding index="1">
+         <naam>image_5cf90ba39bb4672e43ef55a0bb478360.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>5cf90ba39bb4672e43ef55a0bb478360</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_79debaa73ff85833fb82623ca8635986.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>79debaa73ff85833fb82623ca8635986</checksum>
+      </afbeelding>
+   </document>
+   <document index="85">
+      <naam>085_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>7b380c7848bd074c9f4f2cb29c18f20b</checksum>
+   </document>
+   <document index="86">
+      <naam>189_Objecttype_Locatie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Locatie</titel>
+      <niveau>3</niveau>
+      <checksum>f4d50b6bba7c81c6da9d8c3e3d821c93</checksum>
+   </document>
+   <document index="87">
+      <naam>087_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>fd9802c9851f95881249b688c248ed29</checksum>
+      <afbeelding index="1">
+         <naam>image_5d5449c68c0e644591d334fb3786378a.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>5d5449c68c0e644591d334fb3786378a</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_8c9034e8cc34efbb9cc6d2d9924f9a1b.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>8c9034e8cc34efbb9cc6d2d9924f9a1b</checksum>
+      </afbeelding>
+      <afbeelding index="3">
+         <naam>image_910f315b4bd6afe57661510d6dbb14f4.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>910f315b4bd6afe57661510d6dbb14f4</checksum>
+      </afbeelding>
+      <afbeelding index="4">
+         <naam>image_806365226bc699bd4b3470bcae3d8920.png</naam>
+         <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>806365226bc699bd4b3470bcae3d8920</checksum>
+      </afbeelding>
+   </document>
+   <document index="88">
+      <naam>191_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>cdba3a50e9d9d75a34a43a34de753aae</checksum>
+   </document>
+   <document index="89">
+      <naam>089_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>f9a35e369e3366f12cb6eee61bfe7b8d</checksum>
+   </document>
+   <document index="90">
+      <naam>193_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>3a6ff9e992590e4050d16d4114f0b066</checksum>
+      <afbeelding index="1">
+         <naam>image_1a035bd56365228c8d7352a9926395a2.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>1a035bd56365228c8d7352a9926395a2</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_c9c9a829e6e13fabefa6d5b28737b693.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>c9c9a829e6e13fabefa6d5b28737b693</checksum>
+      </afbeelding>
+   </document>
+   <document index="91">
+      <naam>091_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>5a9b71f7789270d87464c0443ca112fe</checksum>
+   </document>
+   <document index="92">
+      <naam>195_Objecttype_Geometrie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Geometrie</titel>
+      <niveau>3</niveau>
+      <checksum>c69dce99af4afe353dd52dc64c1247c2</checksum>
+   </document>
+   <document index="93">
+      <naam>196_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>303957095976f616448b77148f0012ec</checksum>
+   </document>
+   <document index="94">
+      <naam>197_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>48d661e85f568073b56c5976c91314fc</checksum>
+   </document>
+   <document index="95">
+      <naam>198_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>9b9debe05ab4c9406b6b8b786338173c</checksum>
+   </document>
+   <document index="96">
+      <naam>199_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>4743ea8471b7d07d0cadc2a3e82928e3</checksum>
+      <afbeelding index="1">
+         <naam>image_af884c2ae8133d3138828fbc39e7ba55.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>af884c2ae8133d3138828fbc39e7ba55</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_db51e8fa56561dfd2005fc40551db8b5.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>db51e8fa56561dfd2005fc40551db8b5</checksum>
+      </afbeelding>
+   </document>
+   <document index="97">
+      <naam>097_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>2fafef2dd8601defbc8b5faefac12d7a</checksum>
+   </document>
+   <document index="98">
+      <naam>222_Objecttype_Gebiedsaanwijzing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Gebiedsaanwijzing</titel>
+      <niveau>3</niveau>
+      <checksum>1f1400dc622a70fb2c884625f8f140fa</checksum>
+   </document>
+   <document index="99">
+      <naam>223_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>cbfb8523f1078e71a63a85bf7f1e912a</checksum>
+   </document>
+   <document index="100">
+      <naam>224_Onderscheid_tussen_sectorale_en_niet-sectorale_Gebiedsaanwijzingtypen.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Onderscheid tussen sectorale en niet-sectorale Gebiedsaanwijzingtypen</titel>
+      <niveau>5</niveau>
+      <checksum>9bcf5cc0e443f31f6652a05562894832</checksum>
+   </document>
+   <document index="101">
+      <naam>101_Gebruik_van_Gebiedsaanwijzingtypen_per_omgevingsdocument.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Gebruik van Gebiedsaanwijzingtypen per omgevingsdocument</titel>
+      <niveau>5</niveau>
+      <checksum>bbf8f282c693b55db0ef2f236af2c126</checksum>
+   </document>
+   <document index="102">
+      <naam>102_Combinatie_van_Gebiedsaanwijzing_met_objecttypen_voor_tekst.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Combinatie van Gebiedsaanwijzing met objecttypen voor tekst</titel>
+      <niveau>5</niveau>
+      <checksum>a88a5477fb096225728c2058ab40a4c1</checksum>
+   </document>
+   <document index="103">
+      <naam>103_Presentatie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Presentatie</titel>
+      <niveau>5</niveau>
+      <checksum>4facda8d67d546ef8bcc469aa30234cb</checksum>
+   </document>
+   <document index="104">
+      <naam>228_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>ac67a60ff7539a714ec324f577bcc03a</checksum>
+   </document>
+   <document index="105">
+      <naam>105_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>34024b80db5402c706bf2d4db500986a</checksum>
+   </document>
+   <document index="106">
+      <naam>230_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>59f2f944b25da93df98a7a7f40c35b83</checksum>
+      <afbeelding index="1">
+         <naam>image_fb7dbdeb9ce3383a35f89081da8a00c7.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>fb7dbdeb9ce3383a35f89081da8a00c7</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_8c33d2aec8c1e15215c374944a4db188.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>8c33d2aec8c1e15215c374944a4db188</checksum>
+      </afbeelding>
+      <afbeelding index="3">
+         <naam>image_465d801ec9337451fdfb4b054614a025.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>465d801ec9337451fdfb4b054614a025</checksum>
+      </afbeelding>
+      <afbeelding index="4">
+         <naam>image_b0e72ecd5ab8fa0662618c97fd025af8.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>b0e72ecd5ab8fa0662618c97fd025af8</checksum>
+      </afbeelding>
+   </document>
+   <document index="107">
+      <naam>107_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>740d7876211151ece54f28e55fef7834</checksum>
+   </document>
+   <document index="108">
+      <naam>233_De_typen_Gebiedsaanwijzing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De typen Gebiedsaanwijzing</titel>
+      <niveau>4</niveau>
+      <checksum>1cd559653ade6c2e6d59236fb5aad3bc</checksum>
+   </document>
+   <document index="109">
+      <naam>235_Bodem.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Bodem</titel>
+      <niveau>5</niveau>
+      <checksum>1a53ccc958645c6a141149caa1044a51</checksum>
+   </document>
+   <document index="110">
+      <naam>237_Defensie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Defensie</titel>
+      <niveau>5</niveau>
+      <checksum>4961cd93eb9a04bc3bcad316df44be35</checksum>
+   </document>
+   <document index="111">
+      <naam>238_Energievoorziening.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Energievoorziening</titel>
+      <niveau>5</niveau>
+      <checksum>0b7543d5b0540294158a395d20ba692b</checksum>
+   </document>
+   <document index="112">
+      <naam>112_Erfgoed.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Erfgoed</titel>
+      <niveau>5</niveau>
+      <checksum>d024b88d5937d2ec2ab2c1431cc3df3a</checksum>
+   </document>
+   <document index="113">
+      <naam>240_Externe_veiligheid.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Externe veiligheid</titel>
+      <niveau>5</niveau>
+      <checksum>7162e1d92682d490ce9c7d83f5d71b4d</checksum>
+   </document>
+   <document index="114">
+      <naam>114_Geluid.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Geluid</titel>
+      <niveau>5</niveau>
+      <checksum>129cb16a3c26fa2b41c40883dfdb465d</checksum>
+   </document>
+   <document index="115">
+      <naam>243_Geur.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Geur</titel>
+      <niveau>5</niveau>
+      <checksum>9b2df198fb0d3a0257c1c4121f0ebb7b</checksum>
+   </document>
+   <document index="116">
+      <naam>244_Landschap.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Landschap</titel>
+      <niveau>5</niveau>
+      <checksum>b6b9cc0a25dc3a7acb22ac0c35dc3c9f</checksum>
+   </document>
+   <document index="117">
+      <naam>245_Leiding.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Leiding</titel>
+      <niveau>5</niveau>
+      <checksum>9d1eec93e1ad94f256ba2c8ac2bdc355</checksum>
+   </document>
+   <document index="118">
+      <naam>246_Lucht.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Lucht</titel>
+      <niveau>5</niveau>
+      <checksum>f77923da8fca05e45f41f10ff63a26c0</checksum>
+   </document>
+   <document index="119">
+      <naam>247_Mijnbouw.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Mijnbouw</titel>
+      <niveau>5</niveau>
+      <checksum>ed1ba5116f6c96dca2bf6d16fadf219f</checksum>
+   </document>
+   <document index="120">
+      <naam>248_Natuur.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Natuur</titel>
+      <niveau>5</niveau>
+      <checksum>3c952e36e09a87e1f199f47cafc3e278</checksum>
+   </document>
+   <document index="121">
+      <naam>249_Recreatie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Recreatie</titel>
+      <niveau>5</niveau>
+      <checksum>e6221c24588a9a24337acbfd3817c2b1</checksum>
+   </document>
+   <document index="122">
+      <naam>250_Ruimtelijk_gebruik.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Ruimtelijk gebruik</titel>
+      <niveau>5</niveau>
+      <checksum>661e71b3a86a0a324250ad8c0e0de7f0</checksum>
+   </document>
+   <document index="123">
+      <naam>251_Verkeer.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Verkeer</titel>
+      <niveau>5</niveau>
+      <checksum>c8df772419f67b972559b9a26e092b2c</checksum>
+   </document>
+   <document index="124">
+      <naam>252_Water_en_watersysteem.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Water en watersysteem</titel>
+      <niveau>5</niveau>
+      <checksum>097c7cf672df599f5b23a9b10cb041de</checksum>
+   </document>
+   <document index="125">
+      <naam>253_Objecttype_SymbolisatieItem.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype SymbolisatieItem</titel>
+      <niveau>3</niveau>
+      <checksum>848aa3a4c277b00b729a862026d8a73e</checksum>
+   </document>
+   <document index="126">
+      <naam>254_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>818638990a1b55afb1b6823681d19954</checksum>
+   </document>
+   <document index="127">
+      <naam>255_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>2405604d0b18c66ef2c3cbc128e76c7b</checksum>
+   </document>
+   <document index="128">
+      <naam>128_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>ef101c820f32645aff49fd6a7358dd6b</checksum>
+   </document>
+   <document index="129">
+      <naam>257_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>66e75035af9abe6d78d7dcddfaaf29db</checksum>
+      <afbeelding index="1">
+         <naam>image_84746ce9218cae8c9995e3bbc20d3d6c.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>84746ce9218cae8c9995e3bbc20d3d6c</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_7c5cdd831a47f8a9cdf11f6bbc4c81f4.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>7c5cdd831a47f8a9cdf11f6bbc4c81f4</checksum>
+      </afbeelding>
+   </document>
+   <document index="130">
+      <naam>258_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>99660f987aa21b25359edb8dce2f5efd</checksum>
+   </document>
+   <document index="131">
+      <naam>259_Objecttype_Kaart.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Kaart</titel>
+      <niveau>3</niveau>
+      <checksum>92009a6e842053c38bfdbf11b5d9a80e</checksum>
+   </document>
+   <document index="132">
+      <naam>260_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>393bcd2ea72f835d3c6dabd67f1b7067</checksum>
+   </document>
+   <document index="133">
+      <naam>133_Definitie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>9b358b48bf232356298e5300358ce004</checksum>
+   </document>
+   <document index="134">
+      <naam>262_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>45b95ce4a22ef265823e85702919c7ee</checksum>
+   </document>
+   <document index="135">
+      <naam>263_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>ef32d2722e2098f050041652d2c14c27</checksum>
+      <afbeelding index="1">
+         <naam>image_ca88bb0f119520ff8bd9a9712b363993.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>ca88bb0f119520ff8bd9a9712b363993</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_30486d15ac7e14e0a088796020472c6d.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>30486d15ac7e14e0a088796020472c6d</checksum>
+      </afbeelding>
+   </document>
+   <document index="136">
+      <naam>264_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>1f4425c4e540ce1958d59df67a5d88b7</checksum>
+   </document>
+   <document index="137">
+      <naam>265_Objecttype_Kaartlaag.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Kaartlaag</titel>
+      <niveau>3</niveau>
+      <checksum>aed587908657563df89a0aa82a98a36f</checksum>
+   </document>
+   <document index="138">
+      <naam>266_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>3b008d4b441552dbd1edbbc392d6d3c3</checksum>
+   </document>
+   <document index="139">
+      <naam>267_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>0aae6281c1fdbfe9ab1158d262d6c6fc</checksum>
+   </document>
+   <document index="140">
+      <naam>268_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>756f65ee3b2aebcb2e7c8d36c4c0c1f8</checksum>
+   </document>
+   <document index="141">
+      <naam>141_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>876f762b3a6aae1bef9712703706b253</checksum>
+      <afbeelding index="1">
+         <naam>image_ca88bb0f119520ff8bd9a9712b363993.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>ca88bb0f119520ff8bd9a9712b363993</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_30486d15ac7e14e0a088796020472c6d.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>30486d15ac7e14e0a088796020472c6d</checksum>
+      </afbeelding>
+   </document>
+   <document index="142">
+      <naam>270_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>29388dc47522b0f43621263f2d157cf7</checksum>
+   </document>
+   <document index="143">
+      <naam>271_Objecttype_Regelingsgebied.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Objecttype Regelingsgebied</titel>
+      <niveau>3</niveau>
+      <checksum>d45658d907a1c14a5b45bac96779eb93</checksum>
+   </document>
+   <document index="144">
+      <naam>144_Toelichting_op_de_toepassing.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de toepassing</titel>
+      <niveau>4</niveau>
+      <checksum>ae71734c66be33c3938b152ad80bc2fb</checksum>
+   </document>
+   <document index="145">
+      <naam>273_Definitie.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitie</titel>
+      <niveau>4</niveau>
+      <checksum>36f61d1293eba02106d2ab403126fb92</checksum>
+   </document>
+   <document index="146">
+      <naam>274_Doel.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Doel</titel>
+      <niveau>4</niveau>
+      <checksum>d2f80cbded0e3cd3a98856e84314e977</checksum>
+   </document>
+   <document index="147">
+      <naam>275_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>280772760153b9ffd8417b9b35ee8252</checksum>
+      <afbeelding index="1">
+         <naam>image_c2f468985e4c1c74df673f34f5d67b37.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>c2f468985e4c1c74df673f34f5d67b37</checksum>
+      </afbeelding>
+      <afbeelding index="2">
+         <naam>image_5023b6ff337e1ec9ed660eeb836869b6.svg</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>svg</type>
+         <checksum>5023b6ff337e1ec9ed660eeb836869b6</checksum>
+      </afbeelding>
+   </document>
+   <document index="148">
+      <naam>276_Toelichting_op_de_norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting op de norm</titel>
+      <niveau>4</niveau>
+      <checksum>b0a6435715702769c1aab46fab20d464</checksum>
+   </document>
+   <document index="149">
+      <naam>283_Het_niveau_van_annoteren.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Het niveau van annoteren</titel>
+      <niveau>3</niveau>
+      <checksum>eb5e9deacac5a9bafb3f86716f99a28d</checksum>
+   </document>
+   <document index="150">
+      <naam>150_Annoteren_wanneer_een_deel_van_norm_of_beleid_in_een_bijlage_staat.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Annoteren wanneer een deel van norm of beleid in een bijlage staat</titel>
+      <niveau>3</niveau>
+      <checksum>8b38a90dc0ff4e7a56042071d728318c</checksum>
+   </document>
+   <document index="151">
+      <naam>298_Overige_modelleringsaspecten_van_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Overige modelleringsaspecten van de omgevingsvisie</titel>
+      <niveau>2</niveau>
+      <checksum>e64f9e66c5662872df4715d1580d9901</checksum>
+   </document>
+   <document index="152">
+      <naam>299_Standaardindeling_DOCVARIABLE_ID01.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Standaardindeling omgevingsvisie</titel>
+      <niveau>3</niveau>
+      <checksum>4779a162d1b70d307932ae351bd28dae</checksum>
+   </document>
+   <document index="153">
+      <naam>153_Toelichting.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting</titel>
+      <niveau>4</niveau>
+      <checksum>261bc318d96f41d369d8323e955c5d5c</checksum>
+   </document>
+   <document index="154">
+      <naam>154_Norm.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>8905acdf88ef123c644b7c3de0ed64d1</checksum>
+   </document>
+   <document index="155">
+      <naam>308_Tekstverwijzing.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Tekstverwijzing</titel>
+      <niveau>3</niveau>
+      <checksum>0de2bc199f83468713dd2ecd36442818</checksum>
+   </document>
+   <document index="156">
+      <naam>156_Toelichting.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Toelichting</titel>
+      <niveau>4</niveau>
+      <checksum>2bd1b1c25a2382c84e24e7af146b27ff</checksum>
+   </document>
+   <document index="157">
+      <naam>310_Norm.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Norm</titel>
+      <niveau>4</niveau>
+      <checksum>823ae2c6d71ebecfcbb3c37a1e2a8ecd</checksum>
+   </document>
+   <document index="158">
+      <naam>312_Hergebruik_van_en_verwijzen_naar_GIOs_en_OW-objecten_in_een_ander_omgevingsdocument.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Hergebruik van en verwijzen naar GIO’s en OW-objecten in een ander omgevingsdocument</titel>
+      <niveau>3</niveau>
+      <checksum>a91d6dc085110f33bc694594a4a03a46</checksum>
+   </document>
+   <document index="159">
+      <naam>313_Hergebruik_door_het_kopieren_van_GIOs_en_OW-objecten.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Hergebruik door het kopiëren van GIO’s en OW-objecten</titel>
+      <niveau>4</niveau>
+      <checksum>54ccf184d9a0ca8d30ac1819240d508e</checksum>
+   </document>
+   <document index="160">
+      <naam>160_Hergebruik_door_te_verwijzen_naar_een_GIO_of_OW-object_in_een_ander_omgevingsdocument.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Hergebruik door te verwijzen naar een GIO of OW-object in een ander omgevingsdocument</titel>
+      <niveau>4</niveau>
+      <checksum>97c1e57ef8e1651a3f200b2285c5a1ef</checksum>
+   </document>
+   <document index="161">
+      <naam>161_Muteren_van_OW-objecten.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Muteren van OW-objecten</titel>
+      <niveau>3</niveau>
+      <checksum>bacb5e714ac2952feb79d603d8b1bd92</checksum>
+   </document>
+   <document index="162">
+      <naam>162_Onderdelen_van_de_standaard_die_voor_omgevingsdocumenten_met_Vrijetekststructuur_verplicht_of_noodzakelijk_zijn.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Onderdelen van de standaard die voor omgevingsdocumenten met Vrijetekststructuur verplicht of noodzakelijk zijn</titel>
+      <niveau>3</niveau>
+      <checksum>d177c98a27adeae9622219221241afc6</checksum>
+   </document>
+   <document index="163">
+      <naam>163_Juridische_verplichtingen_voor_de_bekendmaking.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Juridische verplichtingen voor de bekendmaking</titel>
+      <niveau>4</niveau>
+      <checksum>cfe712260ef56f84474149a16290d1e0</checksum>
+   </document>
+   <document index="164">
+      <naam>320_Annotaties_voor_de_dienstverlening_in_DSO-LV.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Annotaties voor de dienstverlening in DSO-LV</titel>
+      <niveau>4</niveau>
+      <checksum>2efb5a4e54be36202e0bd9f7a2cd1a28</checksum>
+   </document>
+   <document index="165">
+      <naam>165_Aspecten_van_de_aanlevering.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Aspecten van de aanlevering</titel>
+      <niveau>1</niveau>
+      <checksum>5d51fef6c43bc4993e468d1ff57f85ff</checksum>
+   </document>
+   <document index="166">
+      <naam>322_Procedure_aan_te_leveren_producten_en_gegevens.docx</naam>
+      <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Procedure, aan te leveren producten en gegevens</titel>
+      <niveau>2</niveau>
+      <checksum>9d1f7c2e5545ebb0f1e0b271dae49052</checksum>
+   </document>
+   <document index="167">
+      <naam>167_Inleiding.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Inleiding</titel>
+      <niveau>3</niveau>
+      <checksum>393c2e438a46843274e3e5d5e6ad2d2c</checksum>
+   </document>
+   <document index="168">
+      <naam>168_Identificatie_van_een_Regelingversie_met_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Identificatie van een Regelingversie met Doel</titel>
+      <niveau>3</niveau>
+      <checksum>8fd426627a07b5244541d35837bc7afb</checksum>
+   </document>
+   <document index="169">
+      <naam>169_De_modellering_van_de_kennisgeving.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De modellering van de kennisgeving</titel>
+      <niveau>3</niveau>
+      <checksum>0ef9fd5861ff903c72fcb83c9f4225fd</checksum>
+   </document>
+   <document index="170">
+      <naam>170_Procedure-informatie_en_consolidatie.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Procedure-informatie en consolidatie</titel>
+      <niveau>3</niveau>
+      <checksum>60e3d6b784e1fbe4aa40aca353b44044</checksum>
+   </document>
+   <document index="171">
+      <naam>171_Soort_procedure_en_procedureverloop_de_status_van_het_besluit.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Soort procedure en procedureverloop: de status van het besluit</titel>
+      <niveau>4</niveau>
+      <checksum>341630104ee124297d10bae740fa42ec</checksum>
+   </document>
+   <document index="172">
+      <naam>172_Procedurestatus_van_onderdelen_van_de_Regeling.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Procedurestatus van onderdelen van de Regeling</titel>
+      <niveau>4</niveau>
+      <checksum>2bc02aa0a60823921b1379e6f5b68746</checksum>
+   </document>
+   <document index="173">
+      <naam>173_Procedure_omgevingsvisie_en_aan_te_leveren_producten_en_gegevens.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Procedure omgevingsvisie en aan te leveren producten en gegevens</titel>
+      <niveau>3</niveau>
+      <checksum>91b904560616a8c88c99bc03f689d284</checksum>
+   </document>
+   <document index="174">
+      <naam>174_Voorbereiding_aanmaken_van_het_Doel.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Voorbereiding: aanmaken van het Doel</titel>
+      <niveau>4</niveau>
+      <checksum>afb2b5d5a560956d69eff398754712fc</checksum>
+   </document>
+   <document index="175">
+      <naam>175_Ontwerpbesluit.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Ontwerpbesluit</titel>
+      <niveau>4</niveau>
+      <checksum>7747828d250f2e1f63d5c49aee1655f3</checksum>
+   </document>
+   <document index="176">
+      <naam>176_Juridisch_kader.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Juridisch kader</titel>
+      <niveau>5</niveau>
+      <checksum>8551ee23ca880ecfdd455e3606429f5b</checksum>
+   </document>
+   <document index="177">
+      <naam>177_Aanleveren_ontwerpbesluit.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Aanleveren ontwerpbesluit</titel>
+      <niveau>5</niveau>
+      <checksum>a42df3f29672e3fbaad49ea3a1a19b06</checksum>
+   </document>
+   <document index="178">
+      <naam>178_Aanleveren_kennisgeving.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Aanleveren kennisgeving</titel>
+      <niveau>5</niveau>
+      <checksum>b0f92f59dcd11bf6ea409e8d1716b26d</checksum>
+   </document>
+   <document index="179">
+      <naam>179_Definitief_besluit_vaststelling_bekendmaking_en_inwerkingtreden.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Definitief besluit: vaststelling, bekendmaking en inwerkingtreden</titel>
+      <niveau>4</niveau>
+      <checksum>3fa03a1dbc771e04d3181078ba6cf6ce</checksum>
+   </document>
+   <document index="180">
+      <naam>180_Juridisch_kader.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Juridisch kader</titel>
+      <niveau>5</niveau>
+      <checksum>53c34b43da72acc11810f6ae8b418f57</checksum>
+   </document>
+   <document index="181">
+      <naam>181_Voorbereiding.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Voorbereiding</titel>
+      <niveau>5</niveau>
+      <checksum>dbb8cd9fd4e13263691d51c21235491a</checksum>
+   </document>
+   <document index="182">
+      <naam>182_Aanleveren_definitief_besluit.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Aanleveren definitief besluit</titel>
+      <niveau>5</niveau>
+      <checksum>f71f44bd7aae7627f8ed85deab4bcccb</checksum>
+   </document>
+   <document index="183">
+      <naam>183_Mutatiescenarios.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Mutatiescenario’s</titel>
+      <niveau>2</niveau>
+      <checksum>7c0ba246fb3f9f135debe90f08a7af5b</checksum>
+      <afbeelding index="1">
+         <naam>image_9eabfe9e03965c2ad2c4743094489dc6.png</naam>
+         <omgevingswetbesluit id="bt">basistekst</omgevingswetbesluit>
+         <type>png</type>
+         <checksum>9eabfe9e03965c2ad2c4743094489dc6</checksum>
+      </afbeelding>
+   </document>
+   <document index="184">
+      <naam>184_Bijlagen.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Bijlagen</titel>
+      <niveau>1</niveau>
+      <checksum>bb571b73a0581b50e36ec02e8a31fff4</checksum>
+   </document>
+   <document index="185">
+      <naam>185_De_relatie_tussen_artikel_12_Omgevingswet_en_de_waardelijst_voor_thema.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>De relatie tussen artikel 1.2 Omgevingswet en de waardelijst voor thema</titel>
+      <niveau>6</niveau>
+      <checksum>63383fe86a4e986687504dfbfc4242ee</checksum>
+   </document>
+   <document index="186">
+      <naam>186_Versiehistorie_eerdere_versies.docx</naam>
+      <omgevingswetbesluit id="ovi">omgevingsvisie</omgevingswetbesluit>
+      <versie>2.1.2</versie>
+      <titel>Versiehistorie eerdere versies</titel>
+      <niveau>6</niveau>
+      <checksum>747634d9c03334af5268950efe1320c2</checksum>
+   </document>
+</manifest>
