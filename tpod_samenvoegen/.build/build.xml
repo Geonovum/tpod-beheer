@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project basedir="." name="tpod" default="main">
+
+  <taskdef resource="net/sf/antcontrib/antlib.xml"/>
+  <taskdef name="xmltask" classname="com.oopsconsultancy.xmltask.ant.XmlTask"/>
+
+  <property name="repository.dir" value="C:/Werkbestanden/Geonovum/Beheer/archief"/>
+  <property name="omgevingswetbesluit.id" value="ri"/>
+
+  <property name="output.dir" value="output"/>
+  <property name="temp.dir" value="temp"/>
+
+  <!-- initialiseer mappen -->
+
+  <target name="init" description="Initialiseer mappen">
+    <delete dir="${output.dir}" failonerror="no" includeemptydirs="true"/>
+    <mkdir dir="${output.dir}"/>
+    <delete dir="${temp.dir}" failonerror="no" includeemptydirs="true"/>
+    <mkdir dir="${temp.dir}"/>
+    <copy file="${repository.dir}/${omgevingswetbesluit.id}/manifest.xml" todir="${temp.dir}"/>
+  </target>
+
+  <!-- unzip bestanden -->
+
+  <target name="unzip" description="Unzip bestanden">
+    <xmltask source="${temp.dir}/manifest.xml">
+      <call path="manifest/colofon" target="colofon.execute" buffer="document">
+        <param name="file.name" path="naam/text()"/>
+        <param name="dir.name" path="omgevingswetbesluit/@id"/>
+      </call>
+      <call path="manifest/document" target="document.execute" buffer="document">
+        <param name="file.index" path="substring(string(1000 + count(.|preceding-sibling::document)), 2)"/>
+        <param name="file.name" path="naam/text()"/>
+        <param name="dir.name" path="omgevingswetbesluit/@id"/>
+      </call>
+    </xmltask>
+  </target>
+
+  <target name="colofon.execute" description="Unzip colofon">
+    <property name="file.fullname" value="${repository.dir}/${dir.name}/${file.name}"/>
+    <unzip src="${file.fullname}" dest="${temp.dir}/template"/>
+  </target>
+
+  <target name="document.execute" description="Unzip fragmenten">
+    <property name="file.fullname" value="${repository.dir}/${dir.name}/${file.name}"/>
+    <basename property="base.dir" file="${file.fullname}" suffix=".docx"/>
+    <unzip src="${file.fullname}" dest="${temp.dir}/fragmenten/${file.index}_${base.dir}"/>
+  </target>
+
+  <!-- verzamel bestanden -->
+
+  <target name="copy" description="Verzamel bestanden">
+    <copy todir="${temp.dir}/word">
+      <path>
+        <fileset dir="${temp.dir}/template"/>
+      </path>
+    </copy>
+    <copy todir="${temp.dir}/word/word/media" flatten="true">
+      <path>
+        <fileset dir="${temp.dir}/fragmenten">
+          <include name="**/media/*"/>
+        </fileset>
+      </path>
+    </copy>
+  </target>
+
+  <target name="transform" description="Voeg word-bestand samen">
+    <xslt in="template.xml" out="log.xml" style="tpod_samenvoegen.xsl" processor="trax" force="true">
+      <param name="repository.dir" expression="${repository.dir}"/>
+      <param name="base.dir" expression="${basedir}"/>
+    </xslt>
+    <xslt in="${temp.dir}/template/word/_rels/document.xml.rels" out="${temp.dir}/word/word/_rels/document.xml.rels" style="tpod_media.xsl" processor="trax" force="true">
+      <param name="base.dir" expression="${basedir}"/>
+    </xslt>
+  </target>
+
+  <!-- zip word-bestand -->
+
+  <target name="zip" description="Zip word-bestand">
+    <xmltask source="${temp.dir}/manifest.xml">
+      <call path="manifest" target="zip.execute" buffer="document">
+        <param name="file.name" path="naam/text()"/>
+      </call>
+    </xmltask>
+  </target>
+
+  <target name="zip.execute">
+    <zip basedir="${temp.dir}/word" destfile="${output.dir}/${file.name}"/>
+  </target>
+
+  <!-- totale transformatie -->
+
+  <target name="main" description="Totale transformatie" depends="init,unzip,copy,transform,zip"/>
+
+</project>
