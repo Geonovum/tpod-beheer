@@ -2,7 +2,7 @@
 <xsl:stylesheet version="2.0" xmlns:my="functions" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:digest="java:org.apache.commons.codec.digest.DigestUtils" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:rel="http://schemas.openxmlformats.org/package/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:asvg="http://schemas.microsoft.com/office/drawing/2016/SVG/main" mc:Ignorable="w14 wp14">
   <xsl:output method="xml" version="1.0" indent="yes" encoding="UTF-8" standalone="yes"/>
 
-  <xsl:param name="base.dir" select="string('C:\Werkbestanden\Geonovum\Beheer\tpod_splitsen')"/>
+  <xsl:param name="base.dir" select="string('C:\Werkbestanden\Geonovum\Beheer\tpod_splitsen\.build')"/>
   <xsl:param name="input.name"/>
 
   <!-- gebruikte directories -->
@@ -227,6 +227,12 @@
             </xsl:element>
           </xsl:element>
         </xsl:for-each>
+        <xsl:for-each select="$reference.list/document[@index=$index]/bookmark">
+          <xsl:element name="bookmark">
+            <xsl:attribute name="index" select="position()"/>
+            <xsl:value-of select="."/>
+          </xsl:element>
+        </xsl:for-each>
       </xsl:element>
       <!-- maak document.xml -->
       <xsl:result-document encoding="UTF-8" href="{concat($href,'/document.xml')}" indent="no" method="xml" version="1.0">
@@ -281,7 +287,7 @@
 
   <xsl:template match="element()">
     <xsl:element name="{name()}">
-      <xsl:apply-templates select="namespace::*|@*|node()"/>
+      <xsl:apply-templates select="(namespace::*,@*,node())"/>
     </xsl:element>
   </xsl:template>
 
@@ -371,7 +377,7 @@
       </xsl:when>
       <xsl:otherwise>
         <xsl:element name="{name()}">
-          <xsl:apply-templates select="namespace::*|@*|node()"/>
+          <xsl:apply-templates select="(namespace::*,@*,node())"/>
         </xsl:element>
       </xsl:otherwise>
     </xsl:choose>
@@ -396,7 +402,16 @@
     <xsl:for-each-group select="*" group-starting-with="w:r[w:fldChar]">
       <xsl:choose>
         <xsl:when test="current-group()[w:fldChar/@w:fldCharType='begin']">
-          <xsl:value-of select="concat('[',fn:string-join((tokenize(fn:string-join(current-group()//w:instrText),'\s+|&quot;|\* MERGEFORMAT')[. ne '']),' '),']')"/>
+          <!-- negeer in de vergelijking van tekstfragmenten alle verwijzingen naar bookmarks -->
+          <xsl:variable name="code" select="fn:string-join((tokenize(fn:string-join(current-group()//w:instrText),'\s+|&quot;|\* MERGEFORMAT')[. ne '']),' ')"/>
+          <xsl:choose>
+            <xsl:when test="fn:starts-with($code,'REF')">
+              <xsl:value-of select="string('[BOOKMARKREF]')"/>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="concat('[',$code,']')"/>
+            </xsl:otherwise>
+          </xsl:choose>
         </xsl:when>
         <xsl:when test="current-group()[w:fldChar/@w:fldCharType='separate']">
           <!-- doe niets -->
